@@ -1,0 +1,77 @@
+{
+    "hsk1": [
+      {
+        "id": 1,
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "significado": "(v.) amar; (v.) gustarle (hacer algo) a uno",
+        "audio": "nihao.mp3"
+      },
+      {
+        "id": 2,
+        "hanzi": "八",
+        "pinyin": "bā",
+        "significado": "(num.) ocho",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 3,
+        "hanzi": "爸爸",
+        "pinyin": "bà ba",
+        "significado": "papá",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 4,
+        "hanzi": "杯子",
+        "pinyin": "bēi zi",
+        "significado": "(n.) vaso",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 5,
+        "hanzi": "北京",
+        "pinyin": "běi jīng",
+        "significado": "(n.) Beijing",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 6,
+        "hanzi": "本",
+        "pinyin": "běn",
+        "significado": "(cn.) clasificador para libro, revista etc.; (n.) cuaderno",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 7,
+        "hanzi": "不客气",
+        "pinyin": "bú kè qi",
+        "significado": "de nada",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 8,
+        "hanzi": "不",
+        "pinyin": "bù",
+        "significado": "(adv.) no",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 9,
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "significado": "(n.) verduras; (n.) plato",
+        "audio": "xiexie.mp3"
+      },
+      {
+        "id": 10,
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "significado": "((n.) té(bebida/hoja de té)",
+        "audio": "xiexie.mp3"
+      }
+    ],
+    "hsk2": [
+      
+    ]
+  }

@@ -1,77 +1,219 @@
 {
-    "hsk1": [
-      {
-        "id": 1,
-        "hanzi": "爱",
-        "pinyin": "ài",
-        "significado": "(v.) amar; (v.) gustarle (hacer algo) a uno",
-        "audio": "assets/audios/1. 爱 (H)"
-      },
-      {
-        "id": 2,
-        "hanzi": "八",
-        "pinyin": "bā",
-        "significado": "(num.) ocho",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 3,
-        "hanzi": "爸爸",
-        "pinyin": "bà ba",
-        "significado": "papá",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 4,
-        "hanzi": "杯子",
-        "pinyin": "bēi zi",
-        "significado": "(n.) vaso",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 5,
-        "hanzi": "北京",
-        "pinyin": "běi jīng",
-        "significado": "(n.) Beijing",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 6,
-        "hanzi": "本",
-        "pinyin": "běn",
-        "significado": "(cn.) clasificador para libro, revista etc.; (n.) cuaderno",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 7,
-        "hanzi": "不客气",
-        "pinyin": "bú kè qi",
-        "significado": "de nada",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 8,
-        "hanzi": "不",
-        "pinyin": "bù",
-        "significado": "(adv.) no",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 9,
-        "hanzi": "菜",
-        "pinyin": "cài",
-        "significado": "(n.) verduras; (n.) plato",
-        "audio": "xiexie.mp3"
-      },
-      {
-        "id": 10,
-        "hanzi": "茶",
-        "pinyin": "chá",
-        "significado": "((n.) té(bebida/hoja de té)",
-        "audio": "xiexie.mp3"
-      }
-    ],
-    "hsk2": [
-      
-    ]
+  "hsk1": [
+  {
+    "id": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "significado": "(v.) amar; (v.) gustarle (hacer algo) a uno",
+    "audio": "assets/audios/1. 爱",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/29233.gif"
+  },
+  {
+    "id": 2,
+    "hanzi": "八",
+    "pinyin": "bā",
+    "significado": "(num.) ocho",
+    "audio": "assets/audios/2. 八",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/20843.gif"
+
+  },
+  {
+    "id": 3,
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "significado": "papá",
+    "audio": "assets/audios/3. 爸爸",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/29240.gif"
+  },
+  {
+    "id": 4,
+    "hanzi": "杯子",
+    "pinyin": "bēi zi",
+    "significado": "(n.) vaso",
+    "audio": "assets/audios/4. 杯子",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/26479.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23376.gif"
+  },
+  {
+    "id": 5,
+    "hanzi": "北京",
+    "pinyin": "běi jīng",
+    "significado": "(n.) Beijing",
+    "audio": "assets/audios/5. 北京",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/21271.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20140.gif"
+  },
+  {
+    "id": 6,
+    "hanzi": "本",
+    "pinyin": "běn",
+    "significado": "(cn.) clasificador para libro, revista etc.; (n.) cuaderno",
+    "audio": "assets/audios/6. 本",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/26412.gif"
+  },
+  {
+    "id": 7,
+    "hanzi": "不客气",
+    "pinyin": "bú kè qi",
+    "significado": "de nada",
+    "audio": "assets/audios/7. 不客气",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/19981.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23458.gif",
+    "trazo3": "https://www.strokeorder.com/assets/bishun/animation/27668.gif"
+  },
+  {
+    "id": 8,
+    "hanzi": "不",
+    "pinyin": "bù",
+    "significado": "(adv.) no",
+    "audio": "assets/audios/8. 不",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/19981.gif"
+  },
+  {
+    "id": 9,
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "significado": "(n.) verduras; (n.) plato",
+    "audio": "assets/audios/9. 菜",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33756.gif"
+  },
+  {
+    "id": 10,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "significado": "((n.) té(bebida/hoja de té)",
+    "audio": "assets/audios/10. 茶",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
+  },
+  {
+    "id": 11,
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "significado": "(v.) comer",
+    "audio": "assets/audios/11.吃",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/21507.gif"
+  },
+  {
+    "id": 12,
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "significado": "(n.) taxi",
+    "audio": "assets/audios/12.出租车",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/20986.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/31199.gif",
+    "trazo3": "https://www.strokeorder.com/assets/bishun/animation/36710.gif"
+  },
+  {
+    "id": 13,
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "significado": "hablar por teléfono",
+    "audio": "assets/audios/13.打电话",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/25171.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/30005.gif",
+    "trazo3": "https://www.strokeorder.com/assets/bishun/animation/35805.gif"
+  },
+  {
+    "id": 14,
+    "hanzi": "大",
+    "pinyin": "dà",
+    "significado": "(adj.) grande; (ae.) de (atributivo)",
+    "audio": "assets/audios/14.大",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/22823.gif"
+  },
+  {
+    "id": 15,
+    "hanzi": "的",
+    "pinyin": "de",
+    "significado": "(ae.) expresando énfasis indicando a alguien o algo; indicando a alguien o algo; (n.) indicando la hora",
+    "audio": "assets/audios/15.的",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/30340.gif"
+  },
+  {
+    "id": 16,
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "significado": "(v.) ordenar en un restaurante; (v.) encender, punto.",
+    "audio": "assets/audios/16.点",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/28857.gif"
+  },
+  {
+    "id": 17,
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "significado": "(n.) ordenador, computador",
+    "audio": "assets/audios/17.电脑",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/30005.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/33041.gif"
+  },
+  {
+    "id": 18,
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "significado": "(n.) televisión",
+    "audio": "assets/audios/18.电视",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/30005.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/35270.gif"
+  },
+  {
+    "id": 19,
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "significado": "(n.) película",
+    "audio": "assets/audios/19.电影",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/30005.gif",
+    "trazo2": "https://www.strokeorder.com/assets/bishun/animation/24433.gif"
+  },
+  {
+    "id": 20,
+    "hanzi": "东西",
+    "pinyin": "dōng xi",
+    "significado": "(n.) cosa, objeto. (adv.) todos",
+    "audio": "assets/audios/",
+    "trazo": ""
+  },
+  {
+    "id": 21,
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "significado": "todas",
+    "audio": "assets/audios/",
+    "trazo": ""
+  },
+  {
+    "id": 22,
+    "hanzi": "读",
+    "pinyin": "dú",
+    "significado": "(v.) leer",
+    "audio": "assets/audios/",
+    "trazo": ""
+  },
+  {
+    "id": 23,
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "significado": "perdón",
+    "audio": "assets/audios/",
+    "trazo": ""
+  },
+  {
+    "id": 24,
+    "hanzi": "多",
+    "pinyin": "duō",
+    "significado": "(adj.) mucho; (adv.) cuánto, cómo (para preguntar cantidad o nivel); nivel)",
+    "audio": "assets/audios/",
+    "trazo": ""
   }
+
+],
+ "hsk2": [
+  {
+    "id": 151,
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "significado": "((n.) té(bebida/hoja de té)",
+    "audio": "assets/audios/10. 茶",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
+  }
+ ]
+}

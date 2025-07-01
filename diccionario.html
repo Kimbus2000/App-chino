@@ -1,12 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/diccionario.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
     <title>Diccionario</title>
 </head>
+
 <body>
-    <h1>Funciona</h1>
-    
+
+    <div class="container" onclick="myFunction(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </div>
+    <ul>
+        <li><a href="./index.html">Inicio</a></li>
+        <li><a href="./diccionario.html">Diccionario</a></li>
+        <li><a href="./vocabulario.html">Vocabulario</a></li>
+        <li><a href="./gramatica.html">Gramatica</a></li>
+        <li><a href="./listening.html">Listening</a></li>
+        <li><a href="./lectura.html">Lectura</a></li>
+        <li class="button1"><a href="./login.html">Unirse</a></li>
+    </ul>
+
+    <h2>Diccionario</h2>
+
+    <div id="app">
+
+        <!-- Filtro por nivel HSK (nuevo) -->
+        <div class="hsk-filter">
+            <button @click="setHSKLevel('all')">Todos</button>
+            <button @click="setHSKLevel('hsk1')">HSK 1</button>
+            <button @click="setHSKLevel('hsk2')">HSK 2</button>
+            <!-- Agrega más botones para otros niveles -->
+        </div>
+
+        <!-- Buscador -->
+        <input v-model="searchQuery" placeholder="Buscar en español, pinyin o hanzi..." @input="filterWords">
+
+        <!-- Resultados -->
+        <div v-if="loading">Cargando...</div>
+        <div v-else>
+            <div v-if="filteredWords.length === 0">No se encontraron resultados</div>
+            <div v-for="word in filteredWords" :key="word.id" class="word-card">
+                <h3>{{ word.hanzi }}</h3>
+                <p><b>Pinyin:</b> {{ word.pinyin }}</p>
+                <p><b>Significado:</b> {{ word.significado }}</p>
+
+                <audio controls>
+                    <source :src="word.audio + '.mp3'" type="audio/mpeg">
+                    Tu navegador no soporta audio HTML5.
+                </audio>
+
+                <div></div>
+                <img :src="word.trazo" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy" class="stroke">
+                <img v-if="word.trazo2" :src="word.trazo2" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
+                    class="stroke">
+                <img v-if="word.trazo3" :src="word.trazo3" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
+                    class="stroke">
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/diccionario.js"></script>
 </body>
+
 </html>

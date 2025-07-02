@@ -46,11 +46,11 @@
         <div v-else>
             <div v-if="filteredWords.length === 0">No se encontraron resultados</div>
             <div v-for="word in filteredWords" :key="word.id" class="word-card">
-                <h3>{{ word.hanzi }}</h3>
+                <h3 class="hanzi">{{ word.hanzi }}</h3>
                 <p><b>Pinyin:</b> {{ word.pinyin }}</p>
                 <p><b>Significado:</b> {{ word.significado }}</p>
 
-                <audio controls>
+                <audio controls class="audio">
                     <source :src="word.audio + '.mp3'" type="audio/mpeg">
                     Tu navegador no soporta audio HTML5.
                 </audio>

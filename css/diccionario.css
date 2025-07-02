@@ -79,6 +79,7 @@ ul li a {
     margin: 10px 0;
     border-radius: 8px;
     background: #f9f9f9;
+    
 }
 
 input {
@@ -91,4 +92,13 @@ input {
 
 .stroke {
     width: 20%;
+}
+
+.hanzi {
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.audio {
+    height: 40px;
 }

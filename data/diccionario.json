@@ -1232,9 +1232,33 @@
  "hsk2": [
   {
     "id": 151,
-    "hanzi": "茶",
-    "pinyin": "chá",
-    "significado": "((n.) té(bebida/hoja de té)",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "significado": "(pm.) usado al final de una oración para expresar interrogación especulativa; usado al final de una oración imperativa",
+    "audio": "assets/audios/10. 茶",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
+  },
+  {
+    "id": 152,
+    "hanzi": "白",
+    "pinyin": "bái",
+    "significado": "(adj.) blanco",
+    "audio": "assets/audios/10. 茶",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
+  },
+  {
+    "id": 153,
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "significado": "(num.) ciento; cien",
+    "audio": "assets/audios/10. 茶",
+    "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
+  },
+  {
+    "id": 154,
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "significado": "(v.) ayudar",
     "audio": "assets/audios/10. 茶",
     "trazo": "https://www.strokeorder.com/assets/bishun/animation/33590.gif"
   }

@@ -1,77 +1,3 @@
-body {
-    background-color: #f8f2e9;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    margin-left: 35%;
-    font-family: "Archivo Black", sans-serif;
-    font-weight: bold;
-    color: #003c54;
-    font-size: 19px;
-    margin-top: -40px;
-}
-
-li {
-    display: inline;
-    margin: 2%;
-    outline: none;
-
-}
-
-ul li a {
-    color: inherit;
-    text-decoration: none;
-    cursor: pointer;
-    display: inline-block;
-}
-
-.button1 {
-    background-color: #1c8dee;
-    border-radius: 8px;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    margin: 4px 2px;
-    margin-left: 10%;
-    display: inline-block;
-    cursor: pointer;
-}
-
-
-/* Hamburguesa*/
-.container {
-    display: inline-block;
-    cursor: pointer;
-    margin-top: 15px;
-}
-
-.bar1,
-.bar2,
-.bar3 {
-    width: 35px;
-    height: 5px;
-    background-color: #333;
-    margin: 6px 10px;
-    transition: 0.4s;
-}
-
-.change .bar1 {
-    transform: translate(0, 11px) rotate(-45deg);
-}
-
-.change .bar2 {
-    opacity: 0;
-}
-
-.change .bar3 {
-    transform: translate(0, -11px) rotate(45deg);
-}
-
 /*Tarjeta*/
 .word-card {
     border: 1px solid #ddd;
@@ -91,14 +17,20 @@ input {
 }
 
 .stroke {
-    width: 15%;
+    width: 11%;
 }
 
 .hanzi {
-    font-size: 50px;
+    font-size: 30px;
     margin-top: 10px;
 }
 
 .audio {
     height: 40px;
+}
+
+/*Titulos*/
+#titulo {
+    margin-top: 2%;
+    text-align: center;
 }

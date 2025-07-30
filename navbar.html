@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-<link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/index.css">
 </head>
 
 <body>
-    
+
     <header class="header">
         <nav class="nav">
 
@@ -18,12 +18,22 @@
                 <div class="bar3"></div>
             </div>
             <ul>
-                <li><a href="./index.html">Inicio</a></li>
-                <li><a href="./diccionario.html">Diccionario</a></li>
-                <li><a href="./vocabulario.html">Vocabulario</a></li>
-                <li><a href="./gramatica.html">Gramatica</a></li>
-                <li><a href="./listening.html">Listening</a></li>
-                <li><a href="./lectura.html">Lectura</a></li>
+
+
+                <li class="cursor"><a href="./index.html">Inicio</a></li>
+                <li class="cursor"><a href="./diccionario.html">Diccionario</a></li>
+                <li class="cursor"><a href="./vocabulario.html">Vocabulario</a></li>
+                <li class="cursor"><a href="./gramatica.html">Gramatica</a></li>
+                <li class="cursor"><a href="./listening.html">Listening</a></li>
+                <!--<li><a href="./lectura.html">Lectura</a></li>-->
+                <div class="dropdown">
+                    <button class="dropbtn">Lectura</button>
+                    <div class="dropdown-content">
+                        <a href="./lectura-hsk1.html">HSK 1</a>
+                        <a href="#">HSK 2</a>
+                        <a href="#">HSK 3</a>
+                    </div>
+                </div>
                 <li class="button1"><a href="./login.html">Unirse</a></li>
             </ul>
         </nav>

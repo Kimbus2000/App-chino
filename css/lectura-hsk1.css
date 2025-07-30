@@ -1,0 +1,56 @@
+.titulo {
+  font-size: 19px;
+  color: black;
+  text-align: center;
+  font-size: 300%;
+  margin-top: 3%;
+  margin-inline: 20%;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  background-color: #f8f2e9;
+  justify-content: space-evenly;
+}
+
+.flex-container>a {
+  background-color: #f8f2e9;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  line-height: 90px;
+  font-size: 30px;
+}
+
+.button_general {
+  cursor: pointer;
+  text-decoration: none;
+  border: 2px solid #ccc;
+  
+}
+
+.button_general:hover {
+  background-color: rgb(220, 217, 217);
+  transform: translateY(2px);
+
+}
+
+.titulo_esp {
+  font-size: 100%;
+  white-space: nowrap;
+  font-weight: bold;
+  margin: 0;
+  color:  #3498db;
+}
+
+.titulo_chinese {
+  font-size: 60%;
+  white-space: nowrap;
+  margin: 0;
+}
+.divider {
+  width: 80%;           /* ancho de la línea */
+  border-bottom: 1px solid #ccc; /* línea fina */
+  margin: 6px auto;     /* espacio arriba y abajo, centrado */
+}

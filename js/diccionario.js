@@ -39,7 +39,6 @@ createApp({
           this.normalizeText(word.significado).includes(query)
         );
       }
-
       this.filteredWords = results;
     }
   },

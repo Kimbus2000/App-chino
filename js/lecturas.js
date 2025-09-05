@@ -13,7 +13,7 @@ const tooltip = document.getElementById("tooltip");
 let diccionario = {};
 
 // Cargar el JSON
-fetch("./data/diccionario.json")
+fetch("../../data/diccionario.json")
     .then(res => res.json())
     .then(data => {
         diccionario = data.hsk1.reduce((acc, item) => {

@@ -7,60 +7,49 @@
   margin-inline: 20%;
 }
 
-.texto_chinese {
-  color: black;
-  font-size: 200%;
-  margin-top: 10px;
-  line-height: 3;
-  margin: 0;
-  margin-left: 5%;
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  background-color: #f8f2e9;
+  justify-content: space-evenly;
 }
 
-.texto_esp {
-  color: black;
-  font-size: 200%;
-  margin-top: 10px;
-  line-height: 2.5;
-  margin: 0;
-  margin-left: 5%;
-  margin-bottom: 100px;
+.flex-container>a {
+  background-color: #f8f2e9;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  line-height: 90px;
+  font-size: 30px;
 }
 
-.traduccion_boton {
-  padding: 8px 16px;
-  background-color: #5c9ead;
-  color: white;
-  border: none;
-  border-radius: 6px;
+.button_general {
   cursor: pointer;
-  font-size: 300%;
-  margin-left: 5%;
+  text-decoration: none;
+  border: 2px solid #ccc;
+  
+}
+
+.button_general:hover {
+  background-color: rgb(220, 217, 217);
+  transform: translateY(2px);
 
 }
 
-.traduccion_boton:hover {
-  background-color: #407088;
+.titulo_esp {
+  font-size: 100%;
+  font-weight: bold;
+  margin: 0;
+  color:  #3498db;
 }
 
-
-/*Palabras significado*/
-.hanzi:hover {
-  background-color: yellow;
-  cursor: pointer;
+.titulo_chinese {
+  font-size: 60%;
+  white-space: nowrap;
+  margin: 0;
 }
-
-.tooltip {
-  position: absolute;
-  background-color: #fff8dc;
-  border: 1px solid #ccc;
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 16px;
-  color: #333;
-  z-index: 1000;
-  max-width: 250px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-h3 {
-  font-size: 200%;
+.divider {
+  width: 80%;           /* ancho de la línea */
+  border-bottom: 1px solid #ccc; /* línea fina */
+  margin: 6px auto;     /* espacio arriba y abajo, centrado */
 }

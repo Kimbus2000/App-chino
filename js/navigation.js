@@ -1,32 +1,33 @@
 // navigation.js
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     const navbarContainer = document.getElementById("navbarContainer");
-    const currentPage = window.location.pathname.split("/").pop(); // Obtener el nombre del archivo actual
-    //currentPage = '/'+currentPage;
+    if (navbarContainer) {
+        // Determina la ruta base correcta para llegar a navbar.html
+        const path = window.location.pathname;
+        const depth = path.split('/').length - 2; // Calcula cuántos niveles de profundidad
+        const basePath = '../'.repeat(depth > 0 ? depth : 0);
 
-    // Fetch the navbar content
-    fetch("/navbar.html")
-        .then(response => response.text())
-        .then(html => {
-            // Set the fetched HTML as the content of the navbar container
-            navbarContainer.innerHTML = html;
-            
-            highlightLink(navbarContainer, '/'+currentPage);
-
-            // Acceder al botón hamburguesa después de cargar el contenido del navbar
-            const menuBtn = navbarContainer.querySelector('.hamburger-menu');
-            const navMenu = navbarContainer.querySelector('.nav-menu');
-
-            menuBtn.addEventListener('click', function() {
-                navMenu.classList.toggle('show');
+        fetch(`${basePath}navbar.html`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok ' + response.statusText);
+                }
+                return response.text();
+            })
+            .then(html => {
+                navbarContainer.innerHTML = html;
+                // No es necesario llamar a highlightLink aquí si los estilos se manejan con CSS
+            })
+            .catch(error => {
+                console.error('Hubo un problema con la operación de fetch:', error);
+                navbarContainer.innerHTML = "<p>Error al cargar la barra de navegación.</p>";
             });
-        });
+    }
 });
-
-function highlightLink(navbarContainer, currentPage){
+function highlightLink(navbarContainer, currentPage) {
     const menuItems = navbarContainer.querySelectorAll('.nav-menu-item');
 
-    menuItems.forEach(function(item) {
+    menuItems.forEach(function (item) {
         const link = item.querySelector('.nav-menu-link');
         if (!link) return; // Evita error si no hay link
 
@@ -34,7 +35,7 @@ function highlightLink(navbarContainer, currentPage){
         linkHref = replaceLink(linkHref);
 
         let pageWithoutExtension = replaceLink(currentPage);
-        pageWithoutExtension = '/'+pageWithoutExtension;
+        pageWithoutExtension = '/' + pageWithoutExtension;
 
         if (link.getAttribute('href') === currentPage) {
             link.classList.add('active');
@@ -42,9 +43,9 @@ function highlightLink(navbarContainer, currentPage){
     });
 }
 
-function replaceLink(str){
+function replaceLink(str) {
     if (str.endsWith('.html')) {
-        return str.replace('.html','');
+        return str.replace('.html', '');
     }
     return str;
 }

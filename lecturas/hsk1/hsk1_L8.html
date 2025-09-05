@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/lecturas.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">你女儿几岁了?</p>
+
+    <p class="texto_chinese">
+
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">女儿</span>
+        <span class="hanzi">几</span>
+        <span class="hanzi">岁</span>
+        <span class="hanzi">了</span>
+        ?
+        <br>
+        B:
+        <span class="hanzi">她</span>
+        <span class="hanzi">女儿</span>
+        <span class="hanzi">今</span>
+        <span class="hanzi">年</span>
+        <span class="hanzi">四</span>
+        <span class="hanzi">岁</span>
+        <span class="hanzi">了</span>
+        。
+
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <p class="texto_esp">
+            A: ¿Cuántos años tiene tu hija? <br>
+
+            B: Ella tiene cuatro años este año. <br>
+
+        </p>
+    </div>
+
+    <script src="./js/navigation.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/lecturas.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/vocabulario.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
+    <title>Vocabulario</title>
+</head>
+
+<body>
+
+    <div id="navbarContainer"></div>
+
+
+    <div id="app">
+        <div class="container_flashcards" v-if="!loading">
+            <h1>Flashcards HSK</h1>
+
+            <div class="controls">
+                <select v-model="currentHSK" @change="loadDeck">
+                    <option value="hsk1">HSK 1</option>
+                    <option value="hsk2">HSK 2</option>
+                    <option value="hsk3">HSK 3</option>
+                    <option value="all">Todos los niveles</option>
+                </select>
+
+                <button @click="shuffleDeck" class="btn">Mezclar Cartas</button>
+                <div class="stats">
+                    <span>Cartas: {{ deck.length }} |</span>
+                    <span>Acertadas: {{ stats.correct }} |</span>
+                    <span>Falladas: {{ stats.wrong }}</span>
+                </div>
+            </div>
+
+            <div class="flashcard-container" v-if="currentCard">
+
+                <div class="flashcard" :class="{ 'is-flipped': isFlipped }" @click="flipCard">
+                    <div class="flashcard-front">
+                        
+                        <div class="hanzi">{{ currentCard.hanzi }}</div>
+                        <button @click.stop="playAudio" class="audio-btn" v-if="currentCard.audio">
+                            🔊
+                        </button>
+                    </div>
+                    <div class="flashcard-back">
+                        <div class="pinyin">{{ currentCard.pinyin }}</div>
+                        <div class="meaning">{{ currentCard.significado }}</div>
+                        <div class="hsk-level">HSK {{ currentCard.hsk.slice(3) }}</div>
+                    </div>
+                </div>
+
+                <div class="card-actions" v-if="isFlipped">
+                    <button @click="handleResponse(true)" class="btn correct">Acerté</button>
+                    <button @click="handleResponse(false)" class="btn wrong">Fallé</button>
+                </div>
+            </div>
+
+            <div v-else class="empty-deck">
+                <p>No hay más cartas para revisar ahora.</p>
+                <button @click="resetDeck" class="btn">Reiniciar Mazo</button>
+            </div>
+        </div>
+
+        <div v-else class="loading">
+            Cargando palabras...
+        </div>
+    </div>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/vocabulario.js"></script>
+    <script src="./js/navigation.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

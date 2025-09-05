@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/lecturas.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">小明是一名学生</p>
+
+    <p class="texto_chinese">
+
+        <span class="hanzi">小</span>
+        <span class="hanzi">明</span>
+        <span class="hanzi">是</span>
+        <span class="hanzi">一</span>
+        <span class="hanzi">名</span>
+        <span class="hanzi">学生</span>。
+        <span class="hanzi">他</span>
+        <span class="hanzi">每天</span>
+        <span class="hanzi">早上</span>
+        <span class="hanzi">七</span>
+        <span class="hanzi">点</span>
+        <span class="hanzi">起床</span>
+        ，
+        <span class="hanzi">吃</span>
+        <span class="hanzi">早饭</span>
+        ，
+        <span class="hanzi">然后</span>
+        <span class="hanzi">骑</span>
+        <span class="hanzi">自行车</span>
+        <span class="hanzi">去</span>
+        <span class="hanzi">学校</span>。
+        <span class="hanzi">学校</span>
+        <span class="hanzi">离</span>
+        <span class="hanzi">他</span>
+        <span class="hanzi">家</span>
+        <span class="hanzi">不</span>
+        <span class="hanzi">远</span>，
+        <span class="hanzi">只有</span>
+        <span class="hanzi">两</span>
+        <span class="hanzi">公里</span>。
+        <span class="hanzi">他</span>
+        <span class="hanzi">喜欢</span>
+        <span class="hanzi">学习</span>
+        <span class="hanzi">汉语</span>、
+        <span class="hanzi">数学</span>
+        <span class="hanzi">和</span>
+        <span class="hanzi">音乐</span>。
+        <span class="hanzi">放学后</span>，
+        <span class="hanzi">他</span>
+        <span class="hanzi">回家</span>
+        <span class="hanzi">做</span>
+        <span class="hanzi">作业</span>。
+        <span class="hanzi">晚上</span>，
+        <span class="hanzi">他</span>
+        <span class="hanzi">和</span>
+        <span class="hanzi">家人</span>
+        <span class="hanzi">一起</span>
+        <span class="hanzi">吃</span>
+        <span class="hanzi">晚饭</span>，
+        <span class="hanzi">然后</span>
+        <span class="hanzi">看</span>
+        <span class="hanzi">电视</span>。
+        <span class="hanzi">他</span>
+        <span class="hanzi">很</span>
+        <span class="hanzi">喜欢</span>
+        <span class="hanzi">周末</span>，
+        <span class="hanzi">因为</span>
+        <span class="hanzi">可以</span>
+        <span class="hanzi">和</span>
+        <span class="hanzi">朋友</span>
+        <span class="hanzi">一起</span>
+        <span class="hanzi">去</span>
+        <span class="hanzi">公园</span>
+        <span class="hanzi">玩</span>。
+
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3>Xiao Ming es un estudiante.</h3>
+        <p class="texto_esp">
+            Todos los días se levanta a las siete de la mañana, desayuna y luego va en bicicleta a la escuela. 
+            La escuela no está lejos de su casa, solo a dos kilómetros. 
+            Le gusta estudiar chino, matemáticas y música. Después de la escuela, se va a casa a hacer los deberes. 
+            Por la noche, cena con su familia y luego ven la televisión. 
+            Le gustan mucho los fines de semana, porque puede ir al parque a jugar con sus amigos.
+        </p>
+    </div>
+
+    <script src="./js/navigation.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/lecturas.js"></script>
+</body>
+
+</html>

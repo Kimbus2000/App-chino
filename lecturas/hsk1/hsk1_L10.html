@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/lecturas.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">你会说汉语吗？</p>
+
+    <p class="texto_chinese">
+
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">会</span>
+        <span class="hanzi">说</span>
+        <span class="hanzi">汉语</span>
+        <span class="hanzi">吗</span>
+        ？
+        ?
+        <br>
+        B:
+        <span class="hanzi">我</span>
+        <span class="hanzi">会</span>
+        <span class="hanzi">说</span>
+        <span class="hanzi">汉语</span>
+        。
+        <br>
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">妈妈</span>
+        <span class="hanzi">会</span>
+        <span class="hanzi">说</span>
+        <span class="hanzi">汉语</span>
+        <span class="hanzi">吗</span>
+        ?
+        <br>
+        B:
+        <span class="hanzi">她</span>
+        <span class="hanzi">不</span>
+        <span class="hanzi">会</span>
+        <span class="hanzi">说</span>
+        。
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <p class="texto_esp">
+            A: ¿Puedes hablar chino? <br>
+
+            B: Sí, puedo hablar chino. <br>
+            A: ¿Tú mamá puede hablar chino? <br>
+
+            B: Ella no puede hablar chino.
+        </p>
+    </div>
+
+    <script src="./js/navigation.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/lecturas.js"></script>
+</body>
+
+</html>

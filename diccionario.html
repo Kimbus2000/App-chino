@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/diccionario.css">
+    <link rel="stylesheet" href="./data/diccionario.json">
+    <title>Diccionario</title>
+</head>
+
+<body>
+
+    <div id="navbarContainer"></div>
+    
+
+    <h2 id="titulo">Diccionario</h2>
+
+    <div id="app">
+
+        <!-- Filtro por nivel HSK (nuevo) -->
+        <div class="hsk-filter">
+            <button @click="setHSKLevel('all')">Todos</button>
+            <button @click="setHSKLevel('hsk1')">HSK 1</button>
+            <button @click="setHSKLevel('hsk2')">HSK 2</button>
+        </div>
+
+        <!-- Buscador -->
+        <input v-model="searchQuery" placeholder="Buscar en español, pinyin o hanzi..." @input="filterWords">
+
+        <!-- Resultados -->
+        <div v-if="loading">Cargando...</div>
+        <div v-else>
+
+            <div v-if="filteredWords.length === 0">No se encontraron resultados</div>
+
+            <div v-for="word in filteredWords" :key="word.id" class="word-card">
+
+                <h3 class="hanzi">{{ word.hanzi }}</h3>
+                <p><b>Pinyin:</b> {{ word.pinyin }}</p>
+                <p><b>Significado:</b> {{ word.significado }}</p>
+
+                <audio controls class="audio">
+                    <source :src="word.audio + '.mp3'" type="audio/mpeg">
+                    Tu navegador no soporta audio HTML5.
+                </audio>
+
+                <div></div>
+
+                <img :src="word.trazo" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy" class="stroke">
+                
+                <img v-if="word.trazo2" :src="word.trazo2" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
+                    class="stroke">
+                <img v-if="word.trazo3" :src="word.trazo3" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
+                    class="stroke">
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="./js/diccionario.js"></script>
+    <script src="./js/navigation.js"></script>
+    <script src="js/index.js"></script>
+</body>
+
+</html>

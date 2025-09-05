@@ -1,0 +1,36 @@
+/*Tarjeta*/
+.word-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    background: #f9f9f9;
+    
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+.stroke {
+    width: 11%;
+}
+
+.hanzi {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.audio {
+    height: 40px;
+}
+
+/*Titulos*/
+#titulo {
+    margin-top: 2%;
+    text-align: center;
+}

@@ -8,7 +8,7 @@ function toggleTexto() {
     }
 }
 
- /*Palabras significado cuando paso cursor del mouse*/
+/*Palabras significado cuando paso cursor del mouse*/
 const tooltip = document.getElementById("tooltip");
 let diccionario = {};
 
@@ -16,33 +16,36 @@ let diccionario = {};
 fetch("../../data/diccionario.json")
     .then(res => res.json())
     .then(data => {
-        diccionario = data.hsk1.reduce((acc, item) => {
+        const todasLasPalabras = [...data.hsk1, ...data.hsk2];
+        diccionario = todasLasPalabras.reduce((acc, item) => {
             acc[item.hanzi] = {
                 pinyin: item.pinyin,
                 significado: item.significado
             };
             return acc;
         }, {});
-    });
+        activarTooltips();
+    })
+    .catch(error => console.error("Error al cargar el diccionario:", error));
 
+function activarTooltips() {
+    document.querySelectorAll(".hanzi").forEach(span => {
+        span.addEventListener("mouseenter", e => {
+            const texto = e.target.innerText;
+            if (diccionario[texto]) {
+                const { pinyin, significado } = diccionario[texto];
+                tooltip.innerHTML = `<strong>${pinyin}</strong><br>${significado}`;
+                tooltip.style.display = "block";
+            }
+        });
 
-    
-document.querySelectorAll(".hanzi").forEach(span => {
-    span.addEventListener("mouseenter", e => {
-        const texto = e.target.innerText;
-        if (diccionario[texto]) {
-            const { pinyin, significado } = diccionario[texto];
-            tooltip.innerHTML = `<strong>${pinyin}</strong><br>${significado}`;
-            tooltip.style.display = "block";
-        }
-    });
+        span.addEventListener("mousemove", e => {
+            tooltip.style.top = `${e.pageY + 10}px`;
+            tooltip.style.left = `${e.pageX + 10}px`;
+        });
 
-    span.addEventListener("mousemove", e => {
-        tooltip.style.top = `${e.pageY + 10}px`;
-        tooltip.style.left = `${e.pageX + 10}px`;
+        span.addEventListener("mouseleave", () => {
+            tooltip.style.display = "none";
+        });
     });
-
-    span.addEventListener("mouseleave", () => {
-        tooltip.style.display = "none";
-    });
-});
+}

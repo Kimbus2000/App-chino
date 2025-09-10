@@ -437,7 +437,7 @@
       "id": 52,
       "hanzi": "块",
       "pinyin": "kuài",
-      "significado": "pedazo · CL: piezas de ropa ·",
+      "significado": "pedazo · CL: piezas de ropa · CL: para dinero y unidades monetarias",
       "audio": "assets/audios/52.块",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22359.gif"
     },
@@ -445,7 +445,7 @@
       "id": 53,
       "hanzi": "来",
       "pinyin": "lái",
-      "significado": "(v.) venir; (v.) pedir algo",
+      "significado": "venir",
       "audio": "assets/audios/53.来",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26469.gif"
     },
@@ -453,7 +453,7 @@
       "id": 54,
       "hanzi": "老师",
       "pinyin": "lǎo shī",
-      "significado": "(n.) profesor",
+      "significado": "profesor",
       "audio": "assets/audios/54.老师",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/32769.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/24072.gif"
@@ -462,7 +462,7 @@
       "id": 55,
       "hanzi": "了",
       "pinyin": "le",
-      "significado": "(pm.) se usa al final de una oración para indicar un cambio de estado; (sa.) se usa después de un verbo para indicar que la acción está en el pasado y se ha completado / (v.) terminar; (adv.) completamente (usado en negativo)",
+      "significado": "partícula modal, intensifica acción previa, indica cambio o acción completada",
       "audio": "assets/audios/55.了",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20102.gif"
     },
@@ -470,7 +470,7 @@
       "id": 56,
       "hanzi": "冷",
       "pinyin": "lěng",
-      "significado": "(adj.) frío",
+      "significado": "frío",
       "audio": "assets/audios/56.冷",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20919.gif"
     },
@@ -478,7 +478,7 @@
       "id": 57,
       "hanzi": "里",
       "pinyin": "lǐ",
-      "significado": "(n.) interior; dentro de",
+      "significado": "dentro",
       "audio": "assets/audios/57.里",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/37324.gif"
     },
@@ -486,7 +486,7 @@
       "id": 58,
       "hanzi": "六",
       "pinyin": "liù",
-      "significado": "(num.) seis",
+      "significado": "seis · 6",
       "audio": "assets/audios/58.六",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20845.gif"
     },
@@ -494,7 +494,7 @@
       "id": 59,
       "hanzi": "吗",
       "pinyin": "ma",
-      "significado": "(pm.) usado al final de la oración para indicar una pregunta; una pregunta",
+      "significado": "partícula para preguntas · utilizada al final de una pregunta",
       "audio": "assets/audios/59.吗",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21527.gif"
     },
@@ -502,7 +502,7 @@
       "id": 60,
       "hanzi": "妈妈",
       "pinyin": "mā ma",
-      "significado": "(n.) mamá, madre",
+      "significado": "mamá",
       "audio": "assets/audios/60.妈妈",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22920.gif"
     },
@@ -510,7 +510,7 @@
       "id": 61,
       "hanzi": "买",
       "pinyin": "mǎi",
-      "significado": "(v.) comprar",
+      "significado": "comprar",
       "audio": "assets/audios/61.买",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20080.gif"
     },
@@ -518,7 +518,7 @@
       "id": 62,
       "hanzi": "猫",
       "pinyin": "māo",
-      "significado": "(n.) gato",
+      "significado": "gato",
       "audio": "assets/audios/62.猫",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/29483.gif"
     },
@@ -526,7 +526,7 @@
       "id": 63,
       "hanzi": "没关系",
       "pinyin": "méi guān xi",
-      "significado": "de nada ; no se preocupe no tiene nada que ver con; no tiene nada que ver con",
+      "significado": "no tiene importancia",
       "audio": "assets/audios/63.没关系",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/27809.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20851.gif",
@@ -536,7 +536,7 @@
       "id": 64,
       "hanzi": "没有",
       "pinyin": "méi yǒu",
-      "significado": "(v.) no hay; no tan; no poder comparar con",
+      "significado": "no tener · no existir · a no ser",
       "audio": "assets/audios/64.没有",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/27809.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26377.gif"
@@ -545,7 +545,7 @@
       "id": 65,
       "hanzi": "米饭",
       "pinyin": "mǐ fàn",
-      "significado": "(n.) arroz cocido, arroz blanco",
+      "significado": "arroz cocido",
       "audio": "assets/audios/65.米饭",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/31859.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/39277.gif"
@@ -554,7 +554,7 @@
       "id": 66,
       "hanzi": "名字",
       "pinyin": "míng zi",
-      "significado": "(n.) nombre",
+      "significado": "nombre",
       "audio": "assets/audios/66.名字",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21517.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23383.gif"
@@ -563,7 +563,7 @@
       "id": 67,
       "hanzi": "明天",
       "pinyin": "míng tiān",
-      "significado": "(n.) mañana",
+      "significado": "mañana",
       "audio": "assets/audios/67.明天",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26126.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/22825.gif"
@@ -572,7 +572,7 @@
       "id": 68,
       "hanzi": "哪",
       "pinyin": "nǎ",
-      "significado": "(pron.) cuál (usado antes de un clasificador)",
+      "significado": "cuál",
       "audio": "assets/audios/68.哪",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21738.gif"
     },
@@ -580,7 +580,7 @@
       "id": 69,
       "hanzi": "哪儿",
       "pinyin": "nǎ er",
-      "significado": "(pron.) ¿dónde?",
+      "significado": "¿dónde?",
       "audio": "assets/audios/69.哪儿",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21738.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20799.gif"
@@ -589,7 +589,7 @@
       "id": 70,
       "hanzi": "那",
       "pinyin": "nà",
-      "significado": "ese, eso (referencia a persona o cosa lejos en distancia o tiempo)",
+      "significado": "aquel",
       "audio": "assets/audios/70.那",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/37027.gif"
     },
@@ -597,7 +597,7 @@
       "id": 71,
       "hanzi": "呢",
       "pinyin": "ne",
-      "significado": "(pm.) usado al final de una oración para indicar una oración declarativa o una declaración interrogativa",
+      "significado": "partícula para preguntar sobre opinión, ubicación, afirmación, etc",
       "audio": "assets/audios/71.呢",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21602.gif"
     },
@@ -605,7 +605,7 @@
       "id": 72,
       "hanzi": "能",
       "pinyin": "néng",
-      "significado": "(va.) poder",
+      "significado": "poder · tener la capacidad de",
       "audio": "assets/audios/72.能",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/33021.gif"
     },
@@ -613,7 +613,7 @@
       "id": 73,
       "hanzi": "你",
       "pinyin": "nǐ",
-      "significado": "(pron.) tú",
+      "significado": "tú",
       "audio": "assets/audios/73.你",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20320.gif"
     },
@@ -621,7 +621,7 @@
       "id": 74,
       "hanzi": "年",
       "pinyin": "nián",
-      "significado": "(n.) año",
+      "significado": "año",
       "audio": "assets/audios/74.年",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/24180.gif"
     },
@@ -629,7 +629,7 @@
       "id": 75,
       "hanzi": "女儿",
       "pinyin": "nǚ ér",
-      "significado": "(n.) hija",
+      "significado": "hija",
       "audio": "assets/audios/75.女儿",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22899.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20799.gif"
@@ -638,7 +638,7 @@
       "id": 76,
       "hanzi": "朋友",
       "pinyin": "péng you",
-      "significado": "(n.) amigo",
+      "significado": "amigo",
       "audio": "assets/audios/76.朋友",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26379.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21451.gif"
@@ -647,7 +647,7 @@
       "id": 77,
       "hanzi": "漂亮",
       "pinyin": "piào liang",
-      "significado": "(adj.) bonito; bello",
+      "significado": "bonito",
       "audio": "assets/audios/77.漂亮",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/28418.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20142.gif"
@@ -656,7 +656,7 @@
       "id": 78,
       "hanzi": "苹果",
       "pinyin": "píng guǒ",
-      "significado": "(n.) manzana",
+      "significado": "manzana",
       "audio": "assets/audios/78.苹果",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/33529.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26524.gif"
@@ -665,7 +665,7 @@
       "id": 79,
       "hanzi": "七",
       "pinyin": "qī",
-      "significado": "(num.) siete",
+      "significado": "siete · 7",
       "audio": "assets/audios/79.七",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19971.gif"
     },
@@ -673,7 +673,7 @@
       "id": 80,
       "hanzi": "前面",
       "pinyin": "qián miàn",
-      "significado": "(n.) en frente; delante de; (v.) por favor",
+      "significado": "en frente · delante de",
       "audio": "assets/audios/80.前面",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21069.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/38754.gif"
@@ -682,7 +682,7 @@
       "id": 81,
       "hanzi": "钱",
       "pinyin": "qián",
-      "significado": "(n.) dinero",
+      "significado": "dinero",
       "audio": "assets/audios/81.钱",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/38065.gif"
     },
@@ -690,7 +690,7 @@
       "id": 82,
       "hanzi": "请",
       "pinyin": "qǐng",
-      "significado": "(v.) rogar; pedir; (v.) invitar; agasajar; (v.) ir",
+      "significado": "iniciar pregunta o invitación para realizar algo",
       "audio": "assets/audios/82.请",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/35831.gif"
     },
@@ -698,7 +698,7 @@
       "id": 83,
       "hanzi": "去",
       "pinyin": "qù",
-      "significado": "(v.) Ir",
+      "significado": "ir",
       "audio": "assets/audios/83.去",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21435.gif"
     },
@@ -706,7 +706,7 @@
       "id": 84,
       "hanzi": "热",
       "pinyin": "rè",
-      "significado": "(adj.) hace calor; temperatura alta; (v.) calentar",
+      "significado": "calor · caliente",
       "audio": "assets/audios/84.热",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/28909.gif"
     },
@@ -714,7 +714,7 @@
       "id": 85,
       "hanzi": "人",
       "pinyin": "rén",
-      "significado": "(n.) hombre; persona",
+      "significado": "persona · gente",
       "audio": "assets/audios/85.人",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20154.gif"
     },
@@ -722,7 +722,7 @@
       "id": 86,
       "hanzi": "认识",
       "pinyin": "rèn shi",
-      "significado": "(v.) conocer",
+      "significado": "saber · reconocer · estar familiarizado con",
       "audio": "assets/audios/86.认识",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/35748.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/35782.gif"
@@ -731,7 +731,7 @@
       "id": 87,
       "hanzi": "三",
       "pinyin": "sān",
-      "significado": "(num.) tres",
+      "significado": "tres · 3",
       "audio": "assets/audios/87.三",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19977.gif"
     },
@@ -739,7 +739,7 @@
       "id": 88,
       "hanzi": "商店",
       "pinyin": "shāng diàn",
-      "significado": "(n.) tienda",
+      "significado": "tienda",
       "audio": "assets/audios/88.商店",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21830.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/24215.gif"
@@ -748,7 +748,7 @@
       "id": 89,
       "hanzi": "上",
       "pinyin": "shàng",
-      "significado": "(n.) sobre; encima; (v.) empezar el trabajo o estudio etc. a determinada hora; determinada hora",
+      "significado": "arriba · sobre · encima de · arriba de · asistir (a clase o reunión) · último (semana/mes/año) · previo · subir a (un lugar) · subir (vehículo)",
       "audio": "assets/audios/89.上",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19978.gif"
     },
@@ -756,7 +756,7 @@
       "id": 90,
       "hanzi": "上午",
       "pinyin": "shàng wǔ",
-      "significado": "(n.) por la mañana",
+      "significado": "la mañana",
       "audio": "assets/audios/90.上午",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19978.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21320.gif"
@@ -765,7 +765,7 @@
       "id": 91,
       "hanzi": "少",
       "pinyin": "shǎo",
-      "significado": "(adj.) poco; no mucho; (v.) faltar",
+      "significado": "poco",
       "audio": "assets/audios/91.少",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23569.gif"
     },
@@ -773,7 +773,7 @@
       "id": 92,
       "hanzi": "谁",
       "pinyin": "shéi",
-      "significado": "(pron.) ¿quién?",
+      "significado": "¿quién?",
       "audio": "assets/audios/92.谁",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/35841.gif"
     },
@@ -781,7 +781,7 @@
       "id": 93,
       "hanzi": "什么",
       "pinyin": "shén me",
-      "significado": "(pron.) ¿qué?; (pron.) todo o algo sin determinar",
+      "significado": "¿qué? · algo",
       "audio": "assets/audios/93.什么",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20160.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20040.gif"
@@ -790,7 +790,7 @@
       "id": 94,
       "hanzi": "十",
       "pinyin": "shí",
-      "significado": "(num.) diez",
+      "significado": "diez · 10",
       "audio": "assets/audios/94.十",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21313.gif"
     },
@@ -798,7 +798,7 @@
       "id": 95,
       "hanzi": "时候",
       "pinyin": "shí hou",
-      "significado": "(n.) en el momento de; cuando; (v.) ser",
+      "significado": "momento · período de tiempo",
       "audio": "assets/audios/95.时候",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26102.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20505.gif"
@@ -807,7 +807,7 @@
       "id": 96,
       "hanzi": "是",
       "pinyin": "shì",
-      "significado": "(v.) ser; (adj.) correcto; (n.) verdad; si; (pron.) esto que",
+      "significado": "ser · si",
       "audio": "assets/audios/96.是",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26159.gif"
     },
@@ -815,7 +815,7 @@
       "id": 97,
       "hanzi": "书",
       "pinyin": "shū",
-      "significado": "(n.) libro",
+      "significado": "libro",
       "audio": "assets/audios/97.书",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20070.gif"
     },
@@ -823,7 +823,7 @@
       "id": 98,
       "hanzi": "水",
       "pinyin": "shuǐ",
-      "significado": "(n.) agua",
+      "significado": "agua",
       "audio": "assets/audios/98.水",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/27700.gif"
     },
@@ -831,7 +831,7 @@
       "id": 99,
       "hanzi": "水果",
       "pinyin": "shuǐguǒ",
-      "significado": "(n.) fruta",
+      "significado": "fruta",
       "audio": "assets/audios/99.水果",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/27700.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26524.gif"
@@ -840,7 +840,7 @@
       "id": 100,
       "hanzi": "睡觉",
       "pinyin": "shuì jiào",
-      "significado": "(v.) dormir; acostarse",
+      "significado": "dormir",
       "audio": "assets/audios/100.睡觉",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/30561.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/35273.gif"
@@ -849,7 +849,7 @@
       "id": 101,
       "hanzi": "说",
       "pinyin": "shuō",
-      "significado": "(v.) decir",
+      "significado": "hablar · decir · explicar · regañar",
       "audio": "assets/audios/101.说",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/35828.gif"
     },
@@ -857,7 +857,7 @@
       "id": 102,
       "hanzi": "四",
       "pinyin": "sì",
-      "significado": "(num.) cuatro",
+      "significado": "cuatro · 4",
       "audio": "assets/audios/102.四",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22235.gif"
     },
@@ -865,7 +865,7 @@
       "id": 103,
       "hanzi": "岁",
       "pinyin": "suì",
-      "significado": "(cn.) año (de edad)",
+      "significado": "años (de edad)",
       "audio": "assets/audios/103.岁",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23681.gif"
     },
@@ -873,7 +873,7 @@
       "id": 104,
       "hanzi": "他",
       "pinyin": "tā",
-      "significado": "(pron.) él",
+      "significado": "él",
       "audio": "assets/audios/104.他",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20182.gif"
     },
@@ -881,7 +881,7 @@
       "id": 105,
       "hanzi": "她",
       "pinyin": "tā",
-      "significado": "(pron.) ella",
+      "significado": "ella",
       "audio": "assets/audios/105.她",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22905.gif"
     },
@@ -889,7 +889,7 @@
       "id": 106,
       "hanzi": "太",
       "pinyin": "tài",
-      "significado": "(adv.) muy; (adv.) demasiado",
+      "significado": "demasiado · excesivamente",
       "audio": "assets/audios/106.太",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22826.gif"
     },
@@ -897,7 +897,7 @@
       "id": 107,
       "hanzi": "天气",
       "pinyin": "tiān qì",
-      "significado": "(n.) tiempo; clima",
+      "significado": "tiempo (clima)",
       "audio": "assets/audios/107.天气",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22825.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/27668.gif"
@@ -906,7 +906,7 @@
       "id": 108,
       "hanzi": "听",
       "pinyin": "tīng",
-      "significado": "(v.) escuchar; (v.) obedecer; aceptar",
+      "significado": "escuchar",
       "audio": "assets/audios/108.听",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21548.gif"
     },
@@ -914,7 +914,7 @@
       "id": 109,
       "hanzi": "同学",
       "pinyin": "tóng xué",
-      "significado": "(n.) compañero de estudio",
+      "significado": "compañero de clase",
       "audio": "assets/audios/109.同学",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21516.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23398.gif"
@@ -923,7 +923,7 @@
       "id": 110,
       "hanzi": "喂",
       "pinyin": "wèi",
-      "significado": "(int.) ¿sí? diga; hola; oiga; aló; bueno",
+      "significado": "¡oye! · alimentar (un animal, un bebé)",
       "audio": "assets/audios/110.喂",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21890.gif"
     },
@@ -931,7 +931,7 @@
       "id": 111,
       "hanzi": "我",
       "pinyin": "wǒ",
-      "significado": "(pron.) yo",
+      "significado": "yo · mi · mío",
       "audio": "assets/audios/111.我",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/25105.gif"
     },
@@ -939,7 +939,7 @@
       "id": 112,
       "hanzi": "我们",
       "pinyin": "wǒ men",
-      "significado": "(pron.) nosotros",
+      "significado": "nosotros · nuestro",
       "audio": "assets/audios/112.我们",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/25105.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20204.gif"
@@ -948,7 +948,7 @@
       "id": 113,
       "hanzi": "五",
       "pinyin": "wǔ",
-      "significado": "(num.) cinco",
+      "significado": "cinco · 5",
       "audio": "assets/audios/113.五",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20116.gif"
     },
@@ -956,7 +956,7 @@
       "id": 114,
       "hanzi": "喜欢",
       "pinyin": "xǐ huan",
-      "significado": "(v.) gustar algo o alguna persona a alguien; (n.) debajo; bajo; debajo de; (v.) llover; nevar etc",
+      "significado": "gustar",
       "audio": "assets/audios/114.喜欢",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21916.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/27426.gif"
@@ -965,7 +965,7 @@
       "id": 115,
       "hanzi": "下",
       "pinyin": "xià",
-      "significado": "(n.) próximo; (v.) bajando; (v.) terminar (una jornada, una clase etc)",
+      "significado": "debajo · más tarde · siguiente",
       "audio": "assets/audios/115.下",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19979.gif"
     },
@@ -973,7 +973,7 @@
       "id": 116,
       "hanzi": "下午",
       "pinyin": "xià wǔ",
-      "significado": "(n.) por la tarde",
+      "significado": "la tarde",
       "audio": "assets/audios/116.下午",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19979.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21320.gif"
@@ -982,7 +982,7 @@
       "id": 117,
       "hanzi": "下雨",
       "pinyin": "xià yǔ",
-      "significado": "(v.) llover",
+      "significado": "llover",
       "audio": "assets/audios/117.下雨",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19979.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/38632.gif"
@@ -991,7 +991,7 @@
       "id": 118,
       "hanzi": "先生",
       "pinyin": "xiān sheng",
-      "significado": "(n.) señor",
+      "significado": "señor · marido",
       "audio": "assets/audios/118.先生",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20808.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/29983.gif"
@@ -1000,7 +1000,7 @@
       "id": 119,
       "hanzi": "现在",
       "pinyin": "xiàn zài",
-      "significado": "(n.) ahora; (va.) quería hacer algo; planear",
+      "significado": "ahora",
       "audio": "assets/audios/119.现在",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/29616.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/22312.gif"
@@ -1009,7 +1009,7 @@
       "id": 120,
       "hanzi": "想",
       "pinyin": "xiǎng",
-      "significado": "(v.) pensar; (v.) echar de menos a alguien; extrañar; (adj.) pequeño",
+      "significado": "querer · pensar · desear",
       "audio": "assets/audios/120.想",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/24819.gif"
     },
@@ -1017,7 +1017,7 @@
       "id": 121,
       "hanzi": "小",
       "pinyin": "xiǎo",
-      "significado": "(v.) ir a menos; (adj) el menor",
+      "significado": "pequeño · joven",
       "audio": "assets/audios/121.小",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23567.gif"
     },
@@ -1025,7 +1025,7 @@
       "id": 122,
       "hanzi": "小姐",
       "pinyin": "xiǎo jie",
-      "significado": "(n.) señorita",
+      "significado": "señorita · chica",
       "audio": "assets/audios/122.小姐",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23567.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/22992.gif"
@@ -1034,7 +1034,7 @@
       "id": 123,
       "hanzi": "些",
       "pinyin": "xiē",
-      "significado": "(cn.) algo; (cv.) (despué de un adj.) un poco más",
+      "significado": "algunos",
       "audio": "assets/audios/123.些",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20123.gif"
     },
@@ -1042,7 +1042,7 @@
       "id": 124,
       "hanzi": "写",
       "pinyin": "xiě",
-      "significado": "(v.) escribir",
+      "significado": "escribir",
       "audio": "assets/audios/124.写",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20889.gif"
     },
@@ -1050,7 +1050,7 @@
       "id": 125,
       "hanzi": "谢谢",
       "pinyin": "xiè xie",
-      "significado": "(v.) Muchas gracias",
+      "significado": "gracias",
       "audio": "assets/audios/125.谢谢",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/35874.gif"
     },
@@ -1058,7 +1058,7 @@
       "id": 126,
       "hanzi": "星期",
       "pinyin": "xīng qī",
-      "significado": "(n.) semana",
+      "significado": "semana",
       "audio": "assets/audios/126.星期",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26143.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26399.gif"
@@ -1067,7 +1067,7 @@
       "id": 127,
       "hanzi": "学生",
       "pinyin": "xué sheng",
-      "significado": "(n.) estudiante",
+      "significado": "estudiante",
       "audio": "assets/audios/127.学生",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23398.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/29983.gif"
@@ -1076,7 +1076,7 @@
       "id": 128,
       "hanzi": "学习",
       "pinyin": "xué xí",
-      "significado": "(v.) estudiar; aprender",
+      "significado": "estudiar; aprender",
       "audio": "assets/audios/128.学习",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23398.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20064.gif"
@@ -1085,7 +1085,7 @@
       "id": 129,
       "hanzi": "学校",
       "pinyin": "xué xiào",
-      "significado": "(n.) escuela",
+      "significado": "escuela",
       "audio": "assets/audios/129.学校",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23398.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26657.gif"
@@ -1094,7 +1094,7 @@
       "id": 130,
       "hanzi": "一",
       "pinyin": "yī",
-      "significado": "(num.) uno; (num.) usado entre dos verbos repetidos",
+      "significado": "uno · 1",
       "audio": "assets/audios/130.一",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19968.gif"
     },
@@ -1102,7 +1102,7 @@
       "id": 131,
       "hanzi": "一点儿",
       "pinyin": "yī diǎn er",
-      "significado": "(cn.) un poquito de",
+      "significado": "un poco · un poco de · un punto de · variante de 一点",
       "audio": "assets/audios/131.一点儿",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/19968.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/28857.gif",
@@ -1112,7 +1112,7 @@
       "id": 132,
       "hanzi": "医生",
       "pinyin": "yī shēng",
-      "significado": "(n.) doctor; médico",
+      "significado": "doctor",
       "audio": "assets/audios/132.医生",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21307.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/29983.gif"
@@ -1121,7 +1121,7 @@
       "id": 133,
       "hanzi": "医院",
       "pinyin": "yī yuàn",
-      "significado": "(n.) hospital",
+      "significado": "hospital",
       "audio": "assets/audios/133.医院",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/21307.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/38498.gif"
@@ -1130,7 +1130,7 @@
       "id": 134,
       "hanzi": "衣服",
       "pinyin": "yī fu",
-      "significado": "(n.) ropa; traje; vestido",
+      "significado": "ropa",
       "audio": "assets/audios/134.衣服",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/34915.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26381.gif"
@@ -1139,7 +1139,7 @@
       "id": 135,
       "hanzi": "椅子",
       "pinyin": "yǐ zi",
-      "significado": "(n.) silla",
+      "significado": "silla",
       "audio": "assets/audios/135.椅子",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26885.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23376.gif"
@@ -1148,7 +1148,7 @@
       "id": 136,
       "hanzi": "有",
       "pinyin": "yǒu",
-      "significado": "(v.) tener; (v.) hay",
+      "significado": "tener · haber",
       "audio": "assets/audios/136.有",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26377.gif"
     },
@@ -1156,7 +1156,7 @@
       "id": 137,
       "hanzi": "月",
       "pinyin": "yuè",
-      "significado": "(n.) mes",
+      "significado": "luna · mes",
       "audio": "assets/audios/137.月",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26376.gif"
     },
@@ -1164,7 +1164,7 @@
       "id": 138,
       "hanzi": "再见",
       "pinyin": "zài jiàn",
-      "significado": "adiós; hasta luego",
+      "significado": "adiós",
       "audio": "assets/audios/138.再见",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20877.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/35265.gif"
@@ -1173,7 +1173,7 @@
       "id": 139,
       "hanzi": "在",
       "pinyin": "zài",
-      "significado": "(v.) estar en; (adv.) estar haciendo algo",
+      "significado": "estar en",
       "audio": "assets/audios/139.在",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22312.gif"
     },
@@ -1181,7 +1181,7 @@
       "id": 140,
       "hanzi": "怎么",
       "pinyin": "zěn me",
-      "significado": "(pron.) ¿cómo?",
+      "significado": "¿cómo?",
       "audio": "assets/audios/140.怎么",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/24590.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20040.gif"
@@ -1190,7 +1190,7 @@
       "id": 141,
       "hanzi": "怎么样",
       "pinyin": "zěn me yàng",
-      "significado": "(pron.) ¿Qué le parece? ¿Qué tal?",
+      "significado": "¿cómo está?",
       "audio": "assets/audios/141.怎么样",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/24590.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20040.gif",
@@ -1200,7 +1200,7 @@
       "id": 142,
       "hanzi": "这",
       "pinyin": "zhè",
-      "significado": "(pron.) esto aqui",
+      "significado": "éste · ese",
       "audio": "assets/audios/142.这",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/36825.gif"
     },
@@ -1208,7 +1208,7 @@
       "id": 143,
       "hanzi": "中国",
       "pinyin": "zhōng guó",
-      "significado": "(n.) China",
+      "significado": "China",
       "audio": "assets/audios/143.中国",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20013.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/22269.gif"
@@ -1217,7 +1217,7 @@
       "id": 144,
       "hanzi": "中午",
       "pinyin": "zhōng wǔ",
-      "significado": "(n.) al mediodía",
+      "significado": "mediodía",
       "audio": "assets/audios/144.中午",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20013.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21320.gif"
@@ -1226,7 +1226,7 @@
       "id": 145,
       "hanzi": "住",
       "pinyin": "zhù",
-      "significado": "(v.) vivir",
+      "significado": "vivir",
       "audio": "assets/audios/145.住",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20303.gif"
     },
@@ -1234,7 +1234,7 @@
       "id": 146,
       "hanzi": "桌子",
       "pinyin": "zhuō zi",
-      "significado": "(n.) mesa",
+      "significado": "mesa",
       "audio": "assets/audios/146.桌子",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26700.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23376.gif"
@@ -1243,7 +1243,7 @@
       "id": 147,
       "hanzi": "字",
       "pinyin": "zì",
-      "significado": "(n.) palabra; carácter chino",
+      "significado": "palabra · carácter chino · símbolo",
       "audio": "assets/audios/147.字",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/23383.gif"
     },
@@ -1251,7 +1251,7 @@
       "id": 148,
       "hanzi": "昨天",
       "pinyin": "zuó tiān",
-      "significado": "(n.) ayer",
+      "significado": "ayer",
       "audio": "assets/audios/148.昨天",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/26152.gif",
       "trazo2": "https://www.strokeorder.com/assets/bishun/animation/22825.gif"
@@ -1260,7 +1260,7 @@
       "id": 149,
       "hanzi": "做",
       "pinyin": "zuò",
-      "significado": "(v.) dedicarse a; ser; (v.) hacer; (pm.) usado al final de una oración para indicar una suposición",
+      "significado": "hacer",
       "audio": "assets/audios/149.做",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/20570.gif"
     },
@@ -1268,7 +1268,7 @@
       "id": 150,
       "hanzi": "坐",
       "pinyin": "zuò",
-      "significado": "(v.) sentarse; sentado; (v.) viajar en (un vehículo); (v.) hacer; preparar ",
+      "significado": "tomar asiento · coger (avión, bus, etc) ",
       "audio": "assets/audios/150.坐",
       "trazo": "https://www.strokeorder.com/assets/bishun/animation/22352.gif"
     }
@@ -1278,7 +1278,7 @@
       "id": 151,
       "hanzi": "吧",
       "pinyin": "ba",
-      "significado": "(pm.) usado al final de una oración para expresar interrogación especulativa; usado al final de una oración imperativa",
+      "significado": "partícula modal utilizada al final de la oración para indicar consulta, sugerencia, solicitud u orden",
       "audio": "assets/audios/10. 茶",
       "trazo": ""
     },
@@ -1286,7 +1286,7 @@
       "id": 152,
       "hanzi": "白",
       "pinyin": "bái",
-      "significado": "(adj.) blanco",
+      "significado": "blanco",
       "audio": "assets/audios/10. 茶",
       "trazo": ""
     },
@@ -1294,7 +1294,7 @@
       "id": 153,
       "hanzi": "百",
       "pinyin": "bǎi",
-      "significado": "(num.) ciento; cien",
+      "significado": "cien",
       "audio": "assets/audios/10. 茶",
       "trazo": ""
     },
@@ -1302,7 +1302,7 @@
       "id": 154,
       "hanzi": "帮助",
       "pinyin": "bāng zhù",
-      "significado": "(v.) ayudar",
+      "significado": "ayuda",
       "audio": "assets/audios/10. 茶",
       "trazo": "",
       "trazo2": ""
@@ -1311,7 +1311,7 @@
       "id": 155,
       "hanzi": "报纸",
       "pinyin": "bào zhǐ",
-      "significado": "(n.) periódico",
+      "significado": "periódico",
       "audio": "",
       "trazo": ""
     },
@@ -1319,7 +1319,7 @@
       "id": 156,
       "hanzi": "比",
       "pinyin": "bǐ",
-      "significado": "(prep.) usado para comparar",
+      "significado": "partícula para hacer uso de la comparación",
       "audio": "",
       "trazo": ""
     },
@@ -1327,7 +1327,7 @@
       "id": 157,
       "hanzi": "别",
       "pinyin": "bié",
-      "significado": "(adv.) imperativo negativo",
+      "significado": "negación · otro · marcharse",
       "audio": "",
       "trazo": ""
     },
@@ -1335,7 +1335,7 @@
       "id": 158,
       "hanzi": "宾馆",
       "pinyin": "bīn guǎn",
-      "significado": "(n.) hotel",
+      "significado": "hotel",
       "audio": "",
       "trazo": ""
     },
@@ -1343,7 +1343,7 @@
       "id": 159,
       "hanzi": "长",
       "pinyin": "cháng",
-      "significado": "(adj.) largo",
+      "significado": "largo · constantemente",
       "audio": "",
       "trazo": ""
     },
@@ -1351,7 +1351,7 @@
       "id": 160,
       "hanzi": "唱歌",
       "pinyin": "chàng gē",
-      "significado": "(v.) cantar",
+      "significado": "cantar una canción",
       "audio": "",
       "trazo": ""
     },
@@ -1359,7 +1359,7 @@
       "id": 161,
       "hanzi": "出",
       "pinyin": "chū",
-      "significado": "(v.) salir",
+      "significado": "salir · elevar",
       "audio": "",
       "trazo": ""
     },
@@ -1367,7 +1367,7 @@
       "id": 162,
       "hanzi": "穿",
       "pinyin": "chuān",
-      "significado": "(v.) vestirse; ponerse",
+      "significado": "vestirse · llevar puesto",
       "audio": "",
       "trazo": ""
     },
@@ -1375,7 +1375,7 @@
       "id": 163,
       "hanzi": "次",
       "pinyin": "cì",
-      "significado": "(cn.) vez",
+      "significado": "veces · para enumerar · para secuencias",
       "audio": "",
       "trazo": ""
     },
@@ -1383,7 +1383,7 @@
       "id": 164,
       "hanzi": "从",
       "pinyin": "cóng",
-      "significado": "(prep.) de; desde",
+      "significado": "desde · nunca (seguido de una negación)",
       "audio": "",
       "trazo": ""
     },
@@ -1391,7 +1391,7 @@
       "id": 165,
       "hanzi": "错",
       "pinyin": "cuò",
-      "significado": "(adj.) erróneo; incorrecto",
+      "significado": "falllo · error · incorrecto",
       "audio": "",
       "trazo": ""
     },
@@ -1407,684 +1407,700 @@
       "id": 167,
       "hanzi": "大家",
       "pinyin": "dà jiā",
-      "significado": "(pron.) todos",
+      "significado": "todos",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 168,
-      "hanzi": "到",
-      "pinyin": "dào",
-      "significado": "(v.) llegar",
+      "hanzi": "但是",
+      "pinyin": "dàn shì",
+      "significado": "pero · sin embargo",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 169,
-      "hanzi": "得",
-      "pinyin": "de",
-      "significado": "(ae.) signo de complemento verbal",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "significado": "llegar · hacia/hasta (un lugar) · hasta (un período de tiempo) · ir",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 170,
-      "hanzi": "等",
-      "pinyin": "děng",
-      "significado": "(v.) esperar",
+      "hanzi": "得",
+      "pinyin": "de",
+      "significado": "partícula estructural utilizada detrás de un verbo/adjetivo como verbo, indica efecto, grado o posibilidad",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 171,
-      "hanzi": "弟弟",
-      "pinyin": "dì di",
-      "significado": "(n.) hermano menor",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "significado": "etcétera · esperar a · grado · igual que",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 172,
-      "hanzi": "第一",
-      "pinyin": "dì yī",
-      "significado": "(num.) primero",
+      "hanzi": "弟弟",
+      "pinyin": "dì di",
+      "significado": "hermano menor",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 173,
-      "hanzi": "懂",
-      "pinyin": "dǒng",
-      "significado": "(v.) entender",
+      "hanzi": "第一",
+      "pinyin": "dì yī",
+      "significado": "primero · número uno",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 174,
-      "hanzi": "对",
-      "pinyin": "duì",
-      "significado": "(adj.) correcto; (prep.) a; hacia",
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "significado": "entender · saber",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 175,
-      "hanzi": "房间",
-      "pinyin": "fáng jiān",
-      "significado": "(n.) habitación; cuarto",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "significado": "correcto · un par · opuesto · responder · contra · para · hacia",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 176,
-      "hanzi": "非常",
-      "pinyin": "fēi cháng",
-      "significado": "(adv.) muy",
+      "hanzi": "房间",
+      "pinyin": "fáng jiān",
+      "significado": "habitación",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 177,
-      "hanzi": "服务员",
-      "pinyin": "fú wù yuán",
-      "significado": "(n.) camarero",
+      "hanzi": "非常",
+      "pinyin": "fēi cháng",
+      "significado": "mucho · extraordinariamente",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 178,
-      "hanzi": "高",
-      "pinyin": "gāo",
-      "significado": "(adj.) alto",
+      "hanzi": "服务员",
+      "pinyin": "fú wù yuán",
+      "significado": "camarero",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 179,
-      "hanzi": "告诉",
-      "pinyin": "gào su",
-      "significado": "(v.) decir, contar",
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "significado": "alto · elevado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 180,
-      "hanzi": "哥哥",
-      "pinyin": "gē ge",
-      "significado": "(n.) hermano mayor",
+      "hanzi": "告诉",
+      "pinyin": "gào su",
+      "significado": "decir · informar · hacer saber",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 181,
-      "hanzi": "给",
-      "pinyin": "gěi",
-      "significado": "(v.) dar; entregar; (prep.) por",
+      "hanzi": "哥哥",
+      "pinyin": "gē ge",
+      "significado": "hermano mayor",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 182,
-      "hanzi": "公共汽车",
-      "pinyin": "gōng gòng qì chē",
-      "significado": "(n.) autobús",
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "significado": "dar · permitir · para (alguien)",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 183,
-      "hanzi": "公司",
-      "pinyin": "gōng sī",
-      "significado": "(n.) compañía; empresa",
+      "hanzi": "公共汽车",
+      "pinyin": "gōng gòng qì chē",
+      "significado": "autobús",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 184,
-      "hanzi": "贵",
-      "pinyin": "guì",
-      "significado": "(adj.) caro",
+      "hanzi": "公司",
+      "pinyin": "gōng sī",
+      "significado": "compañía · empresa",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 185,
-      "hanzi": "过",
-      "pinyin": "guo",
-      "significado": "(aux.) usado despué de un verbo para referirse a una acción terminada",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "significado": "caro",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 186,
-      "hanzi": "孩子",
-      "pinyin": "hái zi",
-      "significado": "(n.) hijos (incluida hija); (n.) niño",
+      "hanzi": "过",
+      "pinyin": "guo",
+      "significado": "cruzar · pasar · partícula que indica experiencia pasada",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 187,
-      "hanzi": "还",
-      "pinyin": "hái",
-      "significado": "(adv.) todavía; (adv.) además",
+      "hanzi": "孩子",
+      "pinyin": "hái zi",
+      "significado": "niño",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 188,
-      "hanzi": "好吃",
-      "pinyin": "hǎo chī",
-      "significado": "delicioso",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "significado": "bastante · pasable · además · también · aún · todavía · incluso",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 189,
-      "hanzi": "黑",
-      "pinyin": "hēi",
-      "significado": "(adj.) negro",
+      "hanzi": "好吃",
+      "pinyin": "hǎo chī",
+      "significado": "delicioso · sabroso",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 190,
-      "hanzi": "红",
-      "pinyin": "hóng",
-      "significado": "(adj.) rojo",
+      "hanzi": "黑",
+      "pinyin": "hēi",
+      "significado": "negro · oscuro",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 191,
-      "hanzi": "火车站",
-      "pinyin": "huǒ chē zhàn",
-      "significado": "(n.) estación ferroviaria",
+      "hanzi": "红",
+      "pinyin": "hóng",
+      "significado": "rojo · popular",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 192,
-      "hanzi": "机场",
-      "pinyin": "jī chǎng",
-      "significado": "(n.) aeropuerto",
+      "hanzi": "欢迎",
+      "pinyin": "huān yíng",
+      "significado": "bienvenido",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 193,
-      "hanzi": "鸡蛋",
-      "pinyin": "jī dàn",
-      "significado": "(n.) huevo",
+      "hanzi": "火车站",
+      "pinyin": "huǒ chē zhàn",
+      "significado": "estación de tren",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 194,
-      "hanzi": "件",
-      "pinyin": "jiàn",
-      "significado": "(cn.) clasificador de traje o de asunto",
+      "hanzi": "机场",
+      "pinyin": "jī chǎng",
+      "significado": "aeropuerto",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 195,
-      "hanzi": "教室",
-      "pinyin": "jiào shì",
-      "significado": "(n.) sala de clase",
+      "hanzi": "鸡蛋",
+      "pinyin": "jī dàn",
+      "significado": "huevo de gallina",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 196,
-      "hanzi": "姐姐",
-      "pinyin": "jiě jie",
-      "significado": "(n.) hermana mayor",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "significado": "CL: ropa, cosas, eventos.",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 197,
-      "hanzi": "介绍",
-      "pinyin": "jiè shào",
-      "significado": "(v.) hacer presentación; (n.) introducción; presentación",
+      "hanzi": "教室",
+      "pinyin": "jiào shì",
+      "significado": "clase · aula · salón de clases",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 198,
-      "hanzi": "近",
-      "pinyin": "jìn",
-      "significado": "(adj.) cerca; (adj.) íntimo",
+      "hanzi": "姐姐",
+      "pinyin": "jiě jie",
+      "significado": "hermana mayor",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 199,
-      "hanzi": "进",
-      "pinyin": "jìn",
-      "significado": "(v.) entrar",
+      "hanzi": "介绍",
+      "pinyin": "jiè shào",
+      "significado": "presentar · sugerir",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 200,
-      "hanzi": "就",
-      "pinyin": "jiù",
-      "significado": "(adv.) pues ya; (adv.) inmediatamente; tan pronto como",
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "significado": "cerca · cerca de",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 201,
-      "hanzi": "觉得",
-      "pinyin": "jué de",
-      "significado": "(v.) parecer a uno; creer que",
+      "hanzi": "进",
+      "pinyin": "jìn",
+      "significado": "entrar · recibir, admitir (a alguien)",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 202,
-      "hanzi": "咖啡",
-      "pinyin": "kā fēi",
-      "significado": "(n.) café",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "significado": "utilizado para indicar una conclusión o resolución · aquí mismo · solo · justamente · ya · entonces",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 203,
-      "hanzi": "开始",
-      "pinyin": "kāi shǐ",
-      "significado": "(v.) empezar; (n.) a comienzo",
+      "hanzi": "觉得",
+      "pinyin": "jué de",
+      "significado": "pensar · sentir",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 204,
-      "hanzi": "考试",
-      "pinyin": "kǎo shì",
-      "significado": "(n.) examen",
+      "hanzi": "咖啡",
+      "pinyin": "kā fēi",
+      "significado": "café",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 205,
-      "hanzi": "可能",
-      "pinyin": "kě néng",
-      "significado": "(va.) posiblemente; (adj.) posible; probable",
+      "hanzi": "开始",
+      "pinyin": "kāi shǐ",
+      "significado": "empezar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 206,
-      "hanzi": "可以",
-      "pinyin": "kě yǐ",
-      "significado": "(va.) poder (de permiso); (adj.) pasable; no tan malo",
+      "hanzi": "考试",
+      "pinyin": "kǎo shì",
+      "significado": "examen",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 207,
-      "hanzi": "课",
-      "pinyin": "kè",
-      "significado": "(n.) lección; (n.) clase",
+      "hanzi": "可能",
+      "pinyin": "kě néng",
+      "significado": "posibilidad · posiblemente · quizás",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 208,
-      "hanzi": "快",
-      "pinyin": "kuài",
-      "significado": "(adj.) rápido; (adv.) próximamente",
+      "hanzi": "可以",
+      "pinyin": "kě yǐ",
+      "significado": "poder · ser capaz de",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 209,
-      "hanzi": "快乐",
-      "pinyin": "kuài lè",
-      "significado": "(adj.) alegre; contento; (n.) felicidad",
+      "hanzi": "课",
+      "pinyin": "kè",
+      "significado": "lección · curso · asignatura",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 210,
-      "hanzi": "累",
-      "pinyin": "lèi",
-      "significado": "(adj.) cansado; fatigado",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "significado": "rápido",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 211,
-      "hanzi": "离",
-      "pinyin": "lí",
-      "significado": "(prep.) distancia",
+      "hanzi": "快乐",
+      "pinyin": "kuài lè",
+      "significado": "feliz",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 212,
-      "hanzi": "两",
-      "pinyin": "liǎng",
-      "significado": "(num.) dos",
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "significado": "cansado · llevar a cabo · trabajar duro",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 213,
-      "hanzi": "零",
-      "pinyin": "líng",
-      "significado": "(num.) cero",
+      "hanzi": "离",
+      "pinyin": "lí",
+      "significado": "irse · partir desde · hasta",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 214,
-      "hanzi": "路",
-      "pinyin": "lù",
-      "significado": "(n.) camino; (cn.) ruta de autobús etc.",
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "significado": "ambos · algunos · unos pocos · dos · peso: 50 gramos",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 215,
-      "hanzi": "旅游",
-      "pinyin": "lǚ yóu",
-      "significado": "(v.) viajar",
+      "hanzi": "零",
+      "pinyin": "líng",
+      "significado": "cero · 0",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 216,
-      "hanzi": "卖",
-      "pinyin": "mài",
-      "significado": "(v.) vender",
+      "hanzi": "路",
+      "pinyin": "lù",
+      "significado": "carretera · calle · camino",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 217,
-      "hanzi": "慢",
-      "pinyin": "màn",
-      "significado": "(adj.) despacio",
+      "hanzi": "旅游",
+      "pinyin": "lǚ yóu",
+      "significado": "viaje · viajar · turismo",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 218,
-      "hanzi": "忙",
-      "pinyin": "máng",
-      "significado": "(adj.) ocupado; (v.) estar ocupado en",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "significado": "vender",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 219,
-      "hanzi": "每",
-      "pinyin": "měi",
-      "significado": "(pron.) cada",
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "significado": "despacio",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 220,
-      "hanzi": "妹妹",
-      "pinyin": "mèi mei",
-      "significado": "(n.) hermana menor",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "significado": "ocupado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 221,
-      "hanzi": "门",
-      "pinyin": "mén",
-      "significado": "(n.) puerta; entrada; salida; (cn.) asignatura en escuela",
+      "hanzi": "每",
+      "pinyin": "měi",
+      "significado": "cada",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 222,
-      "hanzi": "面条",
-      "pinyin": "miàn tiáo",
-      "significado": "(n.) fideos chinos, tallarines chinos",
+      "hanzi": "妹妹",
+      "pinyin": "mèi mei",
+      "significado": "hermana menor",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 223,
-      "hanzi": "男",
-      "pinyin": "nán",
-      "significado": "(n.) varón",
+      "hanzi": "门",
+      "pinyin": "mén",
+      "significado": "puerta",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 224,
-      "hanzi": "您",
-      "pinyin": "nín",
-      "significado": "(pron.) usted",
+      "hanzi": "面条",
+      "pinyin": "miàn tiáo",
+      "significado": "fideos chinos · tallarines chinos",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 225,
-      "hanzi": "牛奶",
-      "pinyin": "niú nǎi",
-      "significado": "(n.) leche de vaca",
+      "hanzi": "男",
+      "pinyin": "nán",
+      "significado": "masculino",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 226,
-      "hanzi": "女",
-      "pinyin": "nǚ",
-      "significado": "(n.) mujer",
+      "hanzi": "您",
+      "pinyin": "nín",
+      "significado": "usted",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 227,
-      "hanzi": "旁边",
-      "pinyin": "páng biān",
-      "significado": "(n.) lado; al lado; cerca de",
+      "hanzi": "牛奶",
+      "pinyin": "niú nǎi",
+      "significado": "leche de vaca",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 228,
-      "hanzi": "跑步",
-      "pinyin": "pǎo bù",
-      "significado": "(v.) correr",
+      "hanzi": "女",
+      "pinyin": "nǚ",
+      "significado": "mujer · hembra · hija",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 229,
-      "hanzi": "便宜",
-      "pinyin": "pián yi",
-      "significado": "(adj.) barato",
+      "hanzi": "旁边",
+      "pinyin": "páng biān",
+      "significado": "al lado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 230,
-      "hanzi": "票",
-      "pinyin": "piào",
-      "significado": "(n.) boleto; billete",
+      "hanzi": "跑步",
+      "pinyin": "pǎo bù",
+      "significado": "correr",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 231,
-      "hanzi": "妻子",
-      "pinyin": "qī zi",
-      "significado": "(n.) esposa",
+      "hanzi": "便宜",
+      "pinyin": "pián yi",
+      "significado": "barato",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 232,
-      "hanzi": "起床",
-      "pinyin": "qǐ chuáng",
-      "significado": "(v.) levantarse (de la cama)",
+      "hanzi": "票",
+      "pinyin": "piào",
+      "significado": "tiquet · entrada · CL: envios y transacciones de negocios",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 233,
-      "hanzi": "千",
-      "pinyin": "qiān",
-      "significado": "(num.) mil",
+      "hanzi": "妻子",
+      "pinyin": "qī zi",
+      "significado": "esposa · mujer (esposa)",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 234,
-      "hanzi": "铅笔",
-      "pinyin": "qiān bǐ",
-      "significado": "(n.) lápiz",
+      "hanzi": "起床",
+      "pinyin": "qǐ chuáng",
+      "significado": "despertarse",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 235,
-      "hanzi": "晴",
-      "pinyin": "qíng",
-      "significado": "(adj.) hace buen tiempo",
+      "hanzi": "千",
+      "pinyin": "qiān",
+      "significado": "mil",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 236,
-      "hanzi": "去年",
-      "pinyin": "qù nián",
-      "significado": "(n.) el año pasado",
+      "hanzi": "铅笔",
+      "pinyin": "qiān bǐ",
+      "significado": "lápiz",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 237,
-      "hanzi": "让",
-      "pinyin": "ràng",
-      "significado": "(v.) dejar a uno a hacer; (v) ceder",
+      "hanzi": "晴",
+      "pinyin": "qíng",
+      "significado": "soleado · despejado (cielo)",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 238,
-      "hanzi": "日",
-      "pinyin": "rì",
-      "significado": "(n.) día; sol",
+      "hanzi": "去年",
+      "pinyin": "qù nián",
+      "significado": "año pasado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 239,
-      "hanzi": "上班",
-      "pinyin": "shàng bān",
-      "significado": "(v.) ir al trabajo",
+      "hanzi": "让",
+      "pinyin": "ràng",
+      "significado": "proporcionar · permitir",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 240,
-      "hanzi": "身体",
-      "pinyin": "shēn tǐ",
-      "significado": "(n.) cuerpo",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "significado": "día; sol",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 241,
-      "hanzi": "生病",
-      "pinyin": "shēng bìng",
-      "significado": "(v.) caer enfermo",
+      "hanzi": "上班",
+      "pinyin": "shàng bān",
+      "significado": "ir a trabajar · empezar a trabajar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 242,
-      "hanzi": "生日",
-      "pinyin": "shēng rì",
-      "significado": "(n.) cumpleaños",
+      "hanzi": "身体",
+      "pinyin": "shēn tǐ",
+      "significado": "cuerpo · salud",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 243,
-      "hanzi": "时间",
-      "pinyin": "shí jiān",
-      "significado": "(n.) tiempo",
+      "hanzi": "生病",
+      "pinyin": "shēng bìng",
+      "significado": "enfermar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 244,
-      "hanzi": "事情",
-      "pinyin": "shì qing",
-      "significado": "(n.) asunto; actividad",
+      "hanzi": "生日",
+      "pinyin": "shēng rì",
+      "significado": "cumpleaños",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 245,
-      "hanzi": "手表",
-      "pinyin": "shǒu biǎo",
-      "significado": "(n.) reloj de muñeca",
+      "hanzi": "时间",
+      "pinyin": "shí jiān",
+      "significado": "tiempo · período",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 246,
-      "hanzi": "手机",
-      "pinyin": "shǒu jī",
-      "significado": "(n.) teléfono móvil; celular",
+      "hanzi": "事情",
+      "pinyin": "shì qing",
+      "significado": "asunto · negocio",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 247,
-      "hanzi": "说话",
-      "pinyin": "shuō huà",
-      "significado": "(v.) hablar",
+      "hanzi": "手表",
+      "pinyin": "shǒu biǎo",
+      "significado": "reloj de muñeca",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 248,
-      "hanzi": "送",
-      "pinyin": "sòng",
-      "significado": "(v.) regalar; (v.) despedir a uno",
+      "hanzi": "手机",
+      "pinyin": "shǒu jī",
+      "significado": "teléfono móvil",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 249,
-      "hanzi": "虽然",
-      "pinyin": "suī rán",
-      "significado": "(conj.) aunque; a pesar de que",
+      "hanzi": "说话",
+      "pinyin": "shuō huà",
+      "significado": "hablar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 250,
-      "hanzi": "但是",
-      "pinyin": "dàn shì",
-      "significado": "(conj.) pero; sin embargo",
+      "hanzi": "送",
+      "pinyin": "sòng",
+      "significado": "regalar · entregar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 251,
-      "hanzi": "它",
-      "pinyin": "tā",
-      "significado": "(pron.) ello (pronombre neutro)",
+      "hanzi": "虽然",
+      "pinyin": "suī rán",
+      "significado": "aunque · a pesar de que · incluso si",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 252,
+      "hanzi": "所以",
+      "pinyin": "suǒ yǐ",
+      "significado": "por lo tanto · como resultado · entonces",
+      "audio": "",
+      "trazo": ""
+    },
+    {
+      "id": 253,
+      "hanzi": "它",
+      "pinyin": "tā",
+      "significado": "pronombre de tercera persona para animales y objetos inanimados",
+      "audio": "",
+      "trazo": ""
+    },
+    {
+      "id": 254,
       "hanzi": "踢足球",
       "pinyin": "tī zú qiú",
       "significado": "jugar al fútbol",
@@ -2092,402 +2108,394 @@
       "trazo": ""
     },
     {
-      "id": 253,
+      "id": 255,
       "hanzi": "题",
       "pinyin": "tí",
-      "significado": "(n.) problema (en un examen)",
-      "audio": "",
-      "trazo": ""
-    },
-    {
-      "id": 254,
-      "hanzi": "跳舞",
-      "pinyin": "tiào wǔ",
-      "significado": "(vs.) bailar",
-      "audio": "",
-      "trazo": ""
-    },
-    {
-      "id": 255,
-      "hanzi": "外",
-      "pinyin": "wài",
-      "significado": "(n.) fuera; (n.) no de la misma entidad",
+      "significado": "pregunta · problema · pregunta de examen · inscribirse · mencionar · tema",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 256,
-      "hanzi": "完",
-      "pinyin": "wán",
-      "significado": "(v.) terminado",
+      "hanzi": "跳舞",
+      "pinyin": "tiào wǔ",
+      "significado": "bailar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 257,
-      "hanzi": "玩",
-      "pinyin": "wán",
-      "significado": "(v.) jugar; divertirse",
+      "hanzi": "外",
+      "pinyin": "wài",
+      "significado": "de fuera · extranjero",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 258,
-      "hanzi": "晚上",
-      "pinyin": "wǎn shang",
-      "significado": "(n.) por la noche",
+      "hanzi": "完",
+      "pinyin": "wán",
+      "significado": "finalizar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 259,
-      "hanzi": "往",
-      "pinyin": "wǎng",
-      "significado": "(prep.) a; hacia",
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "significado": "jugar · divertirse",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 260,
-      "hanzi": "为什么",
-      "pinyin": "wèi shén me",
-      "significado": "(pron.) ¿por qué?",
+      "hanzi": "晚上",
+      "pinyin": "wǎn shang",
+      "significado": "por la tarde/noche",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 261,
-      "hanzi": "问",
-      "pinyin": "wèn",
-      "significado": "(v.) preguntar",
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "significado": "ir (en una dirección) · hacia · (de un tren) rumbo a · pasado · anterior",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 262,
-      "hanzi": "问题",
-      "pinyin": "wèn tí",
-      "significado": "(n.) pregunta; problema",
+      "hanzi": "为什么",
+      "pinyin": "wèi shén me",
+      "significado": "¿por qué?",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 263,
-      "hanzi": "希望",
-      "pinyin": "xī wàng",
-      "significado": "(v.) desear; (n.) deseo; esperanza",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "significado": "preguntar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 264,
-      "hanzi": "西瓜",
-      "pinyin": "xī guā",
-      "significado": "(n.) sandí",
+      "hanzi": "问题",
+      "pinyin": "wèn tí",
+      "significado": "pregunta · problema · cuestión",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 265,
-      "hanzi": "洗",
-      "pinyin": "xǐ",
-      "significado": "(v.) lavar; (v.) revelar y hacer copias de foto",
+      "hanzi": "希望",
+      "pinyin": "xī wàng",
+      "significado": "desear · esperanza",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 266,
-      "hanzi": "小时",
-      "pinyin": "xiǎo shí",
-      "significado": "(n.) hora",
+      "hanzi": "西瓜",
+      "pinyin": "xī guā",
+      "significado": "sandía",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 267,
-      "hanzi": "笑",
-      "pinyin": "xiào",
-      "significado": "(v.) reirse",
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "significado": "lavar · bañarse",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 268,
-      "hanzi": "新",
-      "pinyin": "xīn",
-      "significado": "(adj.) nuevo",
+      "hanzi": "向",
+      "pinyin": "xiàng",
+      "significado": "hacia · dirección · girar hacia · poco antes",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 269,
-      "hanzi": "姓",
-      "pinyin": "xìng",
-      "significado": "(n.) apellido; (v.) apellidarse",
+      "hanzi": "小时",
+      "pinyin": "xiǎo shí",
+      "significado": "hora",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 270,
-      "hanzi": "休息",
-      "pinyin": "xiū xi",
-      "significado": "(v.) descansar",
+      "hanzi": "笑",
+      "pinyin": "xiào",
+      "significado": "reir · sonreir",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 271,
-      "hanzi": "雪",
-      "pinyin": "xuě",
-      "significado": "(n.) nieve",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "significado": "nuevo",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 272,
-      "hanzi": "颜色",
-      "pinyin": "yán sè",
-      "significado": "(n.) color",
+      "hanzi": "姓",
+      "pinyin": "xìng",
+      "significado": "apellido",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 273,
-      "hanzi": "眼睛",
-      "pinyin": "yǎn jing",
-      "significado": "(n.) ojo",
+      "hanzi": "休息",
+      "pinyin": "xiū xi",
+      "significado": "descansar · descanso",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 274,
-      "hanzi": "羊肉",
-      "pinyin": "yáng ròu",
-      "significado": "(n.) cordero",
+      "hanzi": "雪",
+      "pinyin": "xuě",
+      "significado": "nieve",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 275,
-      "hanzi": "药",
-      "pinyin": "yào",
-      "significado": "(n.) medicina",
+      "hanzi": "颜色",
+      "pinyin": "yán sè",
+      "significado": "color",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 276,
-      "hanzi": "要",
-      "pinyin": "yào",
-      "significado": "(va.) querer; desear; (v.) pedir",
+      "hanzi": "眼睛",
+      "pinyin": "yǎn jing",
+      "significado": "ojos",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 277,
-      "hanzi": "也",
-      "pinyin": "yě",
-      "significado": "(adv.) también",
+      "hanzi": "羊肉",
+      "pinyin": "yáng ròu",
+      "significado": "carne de cordero · carne de cabra",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 278,
-      "hanzi": "一下",
-      "pinyin": "yī xià",
-      "significado": "(cn.) una vez; un momento",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "significado": "medicina · cura",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 279,
-      "hanzi": "已经",
-      "pinyin": "yǐ jīng",
-      "significado": "(adv.) ya; (n.) significado; contenido",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "significado": "importante · querer · quisiera · poder · deber",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 280,
-      "hanzi": "一起",
-      "pinyin": "yī qǐ",
-      "significado": "(adv.) juntos",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "significado": "también",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 281,
-      "hanzi": "意思",
-      "pinyin": "yì si",
-      "significado": "(n.) opinión; idea; (n.) interesante, divertido",
+      "hanzi": "一下",
+      "pinyin": "yī xià",
+      "significado": "utilizado tras un verbo para indicar un acto o un intento · hacer algo (para darle una oportunidad) · una vez · en un rato · de repente · todo de una vez",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 282,
-      "hanzi": "因为",
-      "pinyin": "yīn wèi",
-      "significado": "(conj.) porque",
+      "hanzi": "已经",
+      "pinyin": "yǐ jīng",
+      "significado": "ya",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 283,
-      "hanzi": "所以",
-      "pinyin": "suǒ yǐ",
-      "significado": "(conj.) por lo tanto; así que; por consiguiente",
+      "hanzi": "一起",
+      "pinyin": "yī qǐ",
+      "significado": "juntos · con",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 284,
-      "hanzi": "阴",
-      "pinyin": "yīn",
-      "significado": "(adj.) nublado",
+      "hanzi": "意思",
+      "pinyin": "yì si",
+      "significado": "deseo · significado · opinión",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 285,
-      "hanzi": "游泳",
-      "pinyin": "yóu yǒng",
-      "significado": "(v.) nadar",
+      "hanzi": "阴",
+      "pinyin": "yīn",
+      "significado": "nublado (cielo)",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 286,
-      "hanzi": "右边",
-      "pinyin": "yòu biān",
-      "significado": "(n.) derecha; a la derecha",
+      "hanzi": "因为",
+      "pinyin": "yīn wèi",
+      "significado": "porque",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 287,
-      "hanzi": "鱼",
-      "pinyin": "yú",
-      "significado": "(n.) pez; pescado",
+      "hanzi": "游泳",
+      "pinyin": "yóu yǒng",
+      "significado": "nadar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 288,
-      "hanzi": "远",
-      "pinyin": "yuǎn",
-      "significado": "(adj.) lejos",
+      "hanzi": "右边",
+      "pinyin": "yòu biān",
+      "significado": "derecha · a la derecha · el lado derecho",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 289,
-      "hanzi": "运动",
-      "pinyin": "yùn dòng",
-      "significado": "(v.) hacer deporte",
+      "hanzi": "鱼",
+      "pinyin": "yú",
+      "significado": "pescado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 290,
-      "hanzi": "再",
-      "pinyin": "zài",
-      "significado": "(adv.) hacer algo despué de otra acción; (adv.) más; aún más",
+      "hanzi": "远",
+      "pinyin": "yuǎn",
+      "significado": "lejos · distante · remoto",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 291,
-      "hanzi": "早上",
-      "pinyin": "zǎo shang",
-      "significado": "(n.) por la mañana (temprano)",
+      "hanzi": "运动",
+      "pinyin": "yùn dòng",
+      "significado": "deportes",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 292,
-      "hanzi": "丈夫",
-      "pinyin": "zhàng fu",
-      "significado": "(n.) esposo",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "significado": "de nuevo · entonces · una vez más · otra vez",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 293,
-      "hanzi": "找",
-      "pinyin": "zhǎo",
-      "significado": "(v.) buscar",
+      "hanzi": "早上",
+      "pinyin": "zǎo shang",
+      "significado": "la mañana · temprano por la mañana",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 294,
-      "hanzi": "着",
-      "pinyin": "zhe",
-      "significado": "(aux.) usado despué de un verbo, indicando una acción en curso",
+      "hanzi": "丈夫",
+      "pinyin": "zhàng fu",
+      "significado": "marido",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 295,
-      "hanzi": "真",
-      "pinyin": "zhēn",
-      "significado": "(adv.) realmente",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "significado": "buscar · encontrar · devolver",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 296,
-      "hanzi": "正在",
-      "pinyin": "zhèng zài",
-      "significado": "(adv.) estar + gerundio",
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "significado": "partícula añadida tras un verbo para indicar que la acción todavía se esta realizando · utilizado para indicar un estado",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 297,
-      "hanzi": "知道",
-      "pinyin": "zhī dào",
-      "significado": "(v.) saber; entender",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "significado": "realmente · de veras · genuino",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 298,
-      "hanzi": "准备",
-      "pinyin": "zhǔn bèi",
-      "significado": "(v.) planear; intentar, proponerese; (n.) preparación",
+      "hanzi": "正在",
+      "pinyin": "zhèng zài",
+      "significado": "en proceso de · mientras",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 299,
-      "hanzi": "自行车",
-      "pinyin": "zì xíng chē",
-      "significado": "(n.) bicicleta",
+      "hanzi": "知道",
+      "pinyin": "zhī dào",
+      "significado": "saber",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 300,
-      "hanzi": "走",
-      "pinyin": "zǒu",
-      "significado": "(v.) caminar; (v.) irse",
+      "hanzi": "准备",
+      "pinyin": "zhǔn bèi",
+      "significado": "preparación · preparar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 301,
-      "hanzi": "最",
-      "pinyin": "zuì",
-      "significado": "(adv.) el más (adj. superlativo)",
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "significado": "caminar",
       "audio": "",
       "trazo": ""
     },
     {
       "id": 302,
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "significado": "lo que más · el más · superlativo",
+      "audio": "",
+      "trazo": ""
+    },
+    {
+      "id": 303,
       "hanzi": "左边",
       "pinyin": "zuǒ biān",
-      "significado": "(n.) izquierda; a la izquierda",
+      "significado": "izquierda · a la izquierda · el lado izquierdo",
       "audio": "",
       "trazo": ""
     }

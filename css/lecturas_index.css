@@ -1,55 +1,112 @@
-.titulo {
-  font-size: 19px;
-  color: black;
-  text-align: center;
-  font-size: 300%;
-  margin-top: 3%;
-  margin-inline: 20%;
-}
-
+/* Contenedor principal de las tarjetas */
 .flex-container {
-  display: flex;
-  flex-flow: row wrap;
-  background-color: #f8f2e9;
-  justify-content: space-evenly;
+    /* Eliminamos flex-flow: row wrap; y justify-content: space-evenly; */
+    /* Para que las tarjetas se apilen verticalmente */
+    display: flex; /* Mantenemos flex para que los elementos dentro de flex-container puedan usar flex */
+    flex-direction: column; /* Apila los ítems verticalmente */
+    align-items: center; /* Centra las tarjetas horizontalmente */
+    background-color: #f8f2e9; /* Fondo general, ajustado a un gris claro */
+    padding: 20px; /* Espaciado interno */
 }
 
-.flex-container>a {
-  background-color: #f8f2e9;
-  width: 300px;
-  margin: 10px;
-  text-align: center;
-  line-height: 90px;
-  font-size: 30px;
-}
-
+/* Estilos para cada tarjeta (anteriormente <a>, ahora con más estructura) */
 .button_general {
-  cursor: pointer;
-  text-decoration: none;
-  border: 2px solid #ccc;
-  
+    display: flex; /* Hacemos que la tarjeta sea un contenedor flex para imagen y texto */
+    background-color: #ffffff;
+    width: 100%; /* Ocupa todo el ancho del flex-container */
+    max-width: 800px; /* Ancho máximo para las tarjetas, similar al ejemplo */
+    margin: 15px 0; /* Espacio vertical entre tarjetas */
+    border-radius: 12px; /* Esquinas redondeadas como en la imagen */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08); /* Sombra sutil */
+    text-align: left; /* Alineación del texto dentro de la tarjeta */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    color: inherit; /* Hereda el color del texto para los enlaces */
+    overflow: hidden; /* Importante para que las esquinas de la imagen se redondeen */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transición para el hover */
+    line-height: normal; /* Restablecemos el line-height para el contenido general */
+    position: relative; /* Para posicionar el icono de corazón */
 }
 
 .button_general:hover {
-  background-color: rgb(220, 217, 217);
-  transform: translateY(2px);
-
+    background-color: #ffffff; /* No cambiar de color al pasar el ratón */
+    transform: translateY(-5px); /* Pequeño levantamiento */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12); /* Sombra más pronunciada */
 }
 
+/* Estilos de la imagen dentro de la tarjeta */
+.button_general img {
+    width: 35%; /* El ancho de la imagen, ajusta según sea necesario */
+    height: 180px; /* Altura fija para la imagen */
+    object-fit: cover; /* Recorta la imagen para que cubra el espacio sin distorsionarse */
+    border-radius: 12px 0 0 12px; /* Redondea solo las esquinas izquierdas de la imagen */
+}
+
+/* Contenedor para el texto dentro de la tarjeta */
+.card-content {
+    flex-grow: 1; /* Permite que el contenido ocupe el espacio restante */
+    padding: 20px 25px; /* Espaciado interno para el texto */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centra el contenido verticalmente */
+}
+
+
 .titulo_esp {
-  font-size: 100%;
-  font-weight: bold;
-  margin: 0;
-  color:  #3498db;
+    font-size: 1.5em; /* Tamaño de fuente más grande para el título principal */
+    font-weight: bold;
+    margin: 0;
+    color: #6a0dad; /* Color púrpura oscuro como en el ejemplo */
+    line-height: 1.3;
 }
 
 .titulo_chinese {
-  font-size: 60%;
-  white-space: nowrap;
-  margin: 0;
+    font-size: 0.9em; /* Más pequeño para el texto secundario */
+    white-space: normal; /* Permite que el texto se ajuste, no nowrap */
+    margin-top: 5px; /* Pequeño espacio entre el título y el texto chino */
+    color: #555;
 }
+
+/* Eliminamos los divisores, ya que no son parte del diseño de referencia */
 .divider {
-  width: 80%;           /* ancho de la línea */
-  border-bottom: 1px solid #ccc; /* línea fina */
-  margin: 6px auto;     /* espacio arriba y abajo, centrado */
+    display: none;
+}
+
+/* Estilos para el título principal de la página */
+.page-title { /* Cambié el nombre de la clase para evitar conflictos con .titulo_esp */
+    text-align: center;
+    margin: 50px 0;
+    font-family: 'Playfair Display', serif; /* Puedes usar esta fuente o una similar */
+    font-size: 2.8em;
+    color: #333;
+}
+
+/* Media Queries para Responsividad */
+@media (max-width: 768px) {
+    .button_general {
+        flex-direction: column; /* Apila la imagen y el contenido verticalmente */
+        max-width: 90%; /* Ajusta el ancho para pantallas más pequeñas */
+    }
+
+    .button_general img {
+        width: 100%; /* La imagen ocupa todo el ancho */
+        height: 160px; /* Altura ajustada para móviles */
+        border-radius: 12px 12px 0 0; /* Redondea las esquinas superiores */
+    }
+
+    .card-content {
+        padding: 15px 20px; /* Menos padding en móviles */
+    }
+
+    .titulo_esp {
+        font-size: 1.3em;
+    }
+
+    .titulo_chinese {
+        font-size: 0.85em;
+    }
+
+    .page-title {
+        font-size: 2em;
+        margin: 30px 0;
+    }
 }

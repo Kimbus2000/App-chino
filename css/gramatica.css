@@ -1,0 +1,150 @@
+.page-title { /* Cambié el nombre de la clase para evitar conflictos con .titulo_esp */
+    text-align: center;
+    margin: 50px 0;
+    font-family: 'Playfair Display', serif; /* Puedes usar esta fuente o una similar */
+    font-size: 2.8em;
+    color: #333;
+}
+.explicacion {
+    text-align: center;
+    margin: 20px 0;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    color: #666;
+}
+
+/* --- Contenedor Principal del Quiz --- */
+#quiz-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin: 50px auto;
+     position: relative;
+}
+
+#quiz-header {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#question-text {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+#question-counter {
+    font-size: 0.9rem;
+    color: #888;
+    margin-top: 8px;
+}
+
+/* --- Botones de Respuesta --- */
+.btn-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+.btn {
+    background-color: #f8f9fa;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-align: left;
+}
+
+.btn:hover:not([disabled]) {
+    background-color: #e9ecef;
+    border-color: #007bff;
+}
+
+/* --- Estilos de Feedback (Correcto/Incorrecto) --- */
+.btn.correct {
+    background-color: #d4edda;
+    border-color: #28a745;
+    color: #155724;
+}
+
+.btn.incorrect {
+    background-color: #f8d7da;
+    border-color: #dc3545;
+    color: #721c24;
+}
+
+.btn:disabled {
+    cursor: not-allowed;
+}
+
+/* --- AÑADIDO: Estilos para la Pista --- */
+#hint-section {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #fffbe6;
+    border-left: 4px solid #ffeeba;
+    font-size: 0.9rem;
+    color: #856404;
+}
+
+/* --- Sección de Explicación --- */
+#feedback-section {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #e9ecef;
+    font-size: 0.95rem;
+    text-align: center;
+}
+
+/* --- Controles y Botones --- */
+.controls {
+    display: flex;
+    justify-content: space-between; /* Modificado para alinear los botones */
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* --- AÑADIDO: Estilos del Botón de Pista --- */
+.hint-btn {
+    background-color: transparent;
+    border: 1px solid #6c757d;
+    color: #6c757d;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.hint-btn:hover {
+    background-color: #6c757d;
+    color: white;
+}
+
+.next-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.next-btn:hover {
+    background-color: #0056b3;
+}
+
+/* --- Clases de utilidad --- */
+.hide {
+    display: none;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lección 1</title>
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+    <link rel="stylesheet" href="../../css/gramatica.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <h1 class="page-title">Pronombre interrogativo “什么”</h1>
+    <p class="explicacion">
+        El pronombre interrogativo "什么" se usa en oraciones interrogativas, sirviendo como el objeto por sí mismo o
+        junto con un elemento nominal que lo sigue. Por ejemplo:
+        <br><br>
+        (1) 你叫什么名字? - ¿Cómo te llamas?
+        <br><br>
+        (2) 这(zhe, this)是什么? - ¿Qué es esto?
+        <br><br>
+        (3) 这(zhe, this)是什么书(shū, book) ? - ¿Qué libro es este?
+    </p>
+     <div id="quiz-container">
+        <div id="quiz-header">
+            <h2 id="question-text">Cargando pregunta...</h2>
+            <p id="question-counter">Pregunta 1 de 10</p>
+        </div>
+        
+        <div id="answer-buttons" class="btn-grid">
+            </div>
+
+        <div id="hint-section" class="hide">
+            <p><strong>Pista:</strong> <span id="hint-text"></span></p>
+        </div>
+
+        <div id="feedback-section" class="hide">
+            <p id="rationale-text"></p>
+        </div>
+        
+        <div class="controls">
+            <button id="hint-btn" class="hint-btn">💡 Mostrar Pista</button>
+            <button id="next-btn" class="next-btn hide">Siguiente →</button>
+        </div>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/gramatica.js"></script>
+</body>
+
+</html>

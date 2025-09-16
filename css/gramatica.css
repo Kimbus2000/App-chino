@@ -1,10 +1,13 @@
-.page-title { /* Cambié el nombre de la clase para evitar conflictos con .titulo_esp */
+.page-title {
+    /* Cambié el nombre de la clase para evitar conflictos con .titulo_esp */
     text-align: center;
     margin: 50px 0;
-    font-family: 'Playfair Display', serif; /* Puedes usar esta fuente o una similar */
+    font-family: 'Playfair Display', serif;
+    /* Puedes usar esta fuente o una similar */
     font-size: 2.8em;
     color: #333;
 }
+
 .explicacion {
     text-align: center;
     margin: 20px 0;
@@ -25,7 +28,7 @@
     padding: 30px;
     box-sizing: border-box;
     margin: 50px auto;
-     position: relative;
+    position: relative;
 }
 
 #quiz-header {
@@ -109,7 +112,8 @@
 /* --- Controles y Botones --- */
 .controls {
     display: flex;
-    justify-content: space-between; /* Modificado para alinear los botones */
+    justify-content: space-between;
+    /* Modificado para alinear los botones */
     align-items: center;
     margin-top: 20px;
 }
@@ -124,6 +128,7 @@
     cursor: pointer;
     transition: all 0.2s;
 }
+
 .hint-btn:hover {
     background-color: #6c757d;
     color: white;
@@ -140,6 +145,7 @@
     cursor: pointer;
     transition: background-color 0.2s;
 }
+
 .next-btn:hover {
     background-color: #0056b3;
 }
@@ -147,4 +153,33 @@
 /* --- Clases de utilidad --- */
 .hide {
     display: none;
+}
+
+#rationale-text {
+    margin: 0;
+    padding: 0;
+}
+
+#hint-section p {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    /* Para alinear el texto de la pista a la izquierda */
+}
+/* --- AÑADIDO: Estilo para el enlace de regreso --- */
+.back-link {
+    display: block; /* Para que ocupe su propia línea */
+    max-width: 600px; /* Mismo ancho que el quiz para alinearlo */
+    margin: 4% 60% -2% auto; /* Margen para centrarlo y darle espacio */
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #007bff; /* Un color azul estándar para enlaces */
+    text-decoration: none; /* Quita el subrayado por defecto */
+    transition: color 0.2s;
+}
+
+.back-link:hover {
+    text-decoration: underline; /* Añade subrayado al pasar el ratón */
+    color: #0056b3;
 }

@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/vocabulario.css">
     <link rel="stylesheet" href="./data/diccionario.json">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
     <title>Vocabulario</title>
 </head>
 
@@ -16,7 +19,7 @@
 
     <div id="app">
         <div class="container_flashcards" v-if="!loading">
-            <h1>Flashcards HSK</h1>
+            <h1 class="titulo">Flashcards</h1>
 
             <div class="controls">
                 <select v-model="currentHSK" @change="loadDeck">

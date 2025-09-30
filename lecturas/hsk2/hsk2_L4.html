@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">我的猫</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">桌子</span>
+        <span class="hanzi">下面</span>
+        <span class="hanzi">有</span>
+        <span class="hanzi">个</span>
+        <span class="hanzi">猫</span>。
+        <br>
+        B:
+        <span class="hanzi">那</span>
+        <span class="hanzi">是</span>
+        <span class="hanzi">我</span>
+        <span class="hanzi">的</span>
+        <span class="hanzi">猫</span>，
+        <span class="hanzi">它</span>
+        <span class="hanzi">叫</span>
+        <span class="hanzi">花花</span>。
+        <br>
+        A:
+        <span class="hanzi">它</span>
+        <span class="hanzi">很</span>
+        <span class="hanzi">漂亮</span>。
+        <br>
+        B:
+        <span class="hanzi">是啊</span>，
+        <span class="hanzi">我</span>
+        <span class="hanzi">觉得</span>
+        <span class="hanzi">它</span>
+        <span class="hanzi">的</span>
+        <span class="hanzi">眼睛</span>
+        <span class="hanzi">最</span>
+        <span class="hanzi">漂亮</span>。
+        <br>
+        A:
+        <span class="hanzi">它</span>
+        <span class="hanzi">多</span>
+        <span class="hanzi">大</span>
+        <span class="hanzi">了</span>？
+        <br>
+        B:
+        <span class="hanzi">六</span>
+        <span class="hanzi">个</span>
+        <span class="hanzi">多</span>
+        <span class="hanzi">月</span>。
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3 class="titulo_esp">Mi gato</h3>
+        <p class="texto_esp">
+            A: Hay un gato debajo de la mesa. <br>
+            B: Es mi gato, se llama Huahua. <br>
+            A: Es muy bonito. <br>
+            B: Sí, yo creo que sus ojos son lo más bonito que tiene. <br>
+            A: ¿Qué edad tiene?<br>
+            B: Más de seis meses.
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

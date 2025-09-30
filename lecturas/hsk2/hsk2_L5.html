@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">我喜欢运动</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">很</span>
+        <span class="hanzi">少</span>
+        <span class="hanzi">生病</span>，
+        <span class="hanzi">是</span>
+        <span class="hanzi">不</span>
+        <span class="hanzi">是</span>
+        <span class="hanzi">喜欢</span>
+        <span class="hanzi">运动</span>？
+        <br>
+        B:
+
+        <span class="hanzi">是啊</span>,
+        <span class="hanzi">我</span>
+        <span class="hanzi">每天</span>
+        <span class="hanzi">早上</span>
+        <span class="hanzi">都</span>
+        <span class="hanzi">要</span>
+        <span class="hanzi">出</span>
+        <span class="hanzi">去</span>
+        <span class="hanzi">跑步</span>。
+        <br>
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">每天</span>
+        <span class="hanzi">几</span>
+        <span class="hanzi">点</span>
+        <span class="hanzi">起床</span>?
+        <br>
+        B:
+        <span class="hanzi">我</span>
+        <span class="hanzi">每天</span>
+        <span class="hanzi">六</span>
+        <span class="hanzi">点</span>
+        <span class="hanzi">起床</span>。
+
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3 class="titulo_esp">Me gusta hacer ejercicio</h3>
+        <p class="texto_esp">
+            A: Casi nunca te enfermas, ¿es porque te gusta hacer ejercicio? <br>
+            B: Sí, de hecho, salgo a correr todas las mañanas. <br>
+            A: ¿A qué hora te levantas todos los días? <br>
+            B: Me levanto todos los días a las seis.<br>
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

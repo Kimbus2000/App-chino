@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">送报纸的</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">这</span>
+        <span class="hanzi">是</span>
+        <span class="hanzi">今天</span>
+        <span class="hanzi">早上</span>
+        <span class="hanzi">的</span>
+        <span class="hanzi">报纸</span>
+        <span class="hanzi">吗</span>?
+        <br>
+        B:
+        <span class="hanzi">不</span>
+        <span class="hanzi">是</span>,
+        <span class="hanzi">是</span>
+        <span class="hanzi">昨天</span>
+        <span class="hanzi">的</span>。
+        <br>
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">听</span>,
+        <span class="hanzi">是</span>
+        <span class="hanzi">不</span>
+        <span class="hanzi">是</span>
+        <span class="hanzi">送</span>
+        <span class="hanzi">报纸</span>
+        <span class="hanzi">的</span>
+        <span class="hanzi">来</span>
+        <span class="hanzi">了</span>?
+        <br>
+        B:
+        <span class="hanzi">我</span>
+        <span class="hanzi">看</span>
+        <span class="hanzi">一下</span>。
+        <span class="hanzi">不</span>
+        <span class="hanzi">是</span>,
+        <span class="hanzi">是</span>
+        <span class="hanzi">送</span>
+        <span class="hanzi">牛奶</span>
+        <span class="hanzi">的</span>。
+
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3 class="titulo_esp">El que reparte el periódico</h3>
+        <p class="texto_esp">
+            A: ¿Este es el periódico de esta mañana?<br>
+            B: No, es el de ayer.<br>
+            A: Escucha, ¿no es el repartidor del periódico el que ha llegado?<br>
+            B: Voy a mirar... No, es el de la leche.<br>
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

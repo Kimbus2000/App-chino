@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">看医生</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">吃</span>
+        <span class="hanzi">药</span>
+        <span class="hanzi">了</span>
+        <span class="hanzi">吗</span>?
+        <span class="hanzi">现在</span>
+        <span class="hanzi">身体</span>
+        <span class="hanzi">怎么样</span>?
+        <br>
+        B:
+        <span class="hanzi">吃</span>
+        <span class="hanzi">了</span>。
+        <span class="hanzi">现在</span>
+        <span class="hanzi">好</span>
+        <span class="hanzi">多</span>
+        <span class="hanzi">了</span>。
+        <br>
+        A:
+
+        <span class="hanzi">什么</span>
+        <span class="hanzi">时候</span>
+        <span class="hanzi">能</span>
+        <span class="hanzi">出院</span>?
+        <br>
+        B:
+
+        <span class="hanzi">医生</span>
+        <span class="hanzi">说</span>
+        <span class="hanzi">下</span>
+        <span class="hanzi">个</span>
+        <span class="hanzi">星期</span>。
+
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3 class="titulo_esp">Ver al médico</h3>
+        <p class="texto_esp">
+            A: ¿Ya tomaste la medicina? ¿Cómo te sientes ahora?<br>
+            B: Sí. Ya estoy mucho mejor.<br>
+            A: ¿Cuándo puedes salir del hospital?<br>
+            B: El médico dijo que la próxima semana.<br>
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

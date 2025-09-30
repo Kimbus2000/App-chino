@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo"> 买新的椅子</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">我们</span>
+        <span class="hanzi">要</span>
+        <span class="hanzi">不</span>
+        <span class="hanzi">要</span>
+        <span class="hanzi">买</span>
+        <span class="hanzi">几</span>
+        <span class="hanzi">个</span>
+        <span class="hanzi">新</span>
+        <span class="hanzi">的</span>
+        <span class="hanzi">椅子</span>？
+        <br>
+        B:
+        <span class="hanzi">好啊</span>。
+        <span class="hanzi">什么</span>
+        <span class="hanzi">时候</span>
+        <span class="hanzi">去</span>
+        <span class="hanzi">买</span>？
+        <br>
+        A:
+        <span class="hanzi">明天</span>
+        <span class="hanzi">下午</span>
+        <span class="hanzi">怎么样</span>？
+        <span class="hanzi">你</span>
+        <span class="hanzi">明天</span>
+        <span class="hanzi">几</span>
+        <span class="hanzi">点</span>
+        <span class="hanzi">能</span>
+        <span class="hanzi">回</span>
+        <span class="hanzi">来</span>？
+        <br>
+        B:
+        <span class="hanzi">三</span>
+        <span class="hanzi">点</span>
+        <span class="hanzi">多</span>。
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3>Comprando sillas nuevas</h3>
+        <p class="texto_esp">
+            A: ¿Qué te parece si compramos unas sillas nuevas?<br>
+            B: ¡Claro! ¿Cuándo vamos a comprarlas?<br>
+            A: ¿Qué tal mañana por la tarde? Mañana, ¿a qué hora puedes estar de vuelta?<br>
+            B: A las tres y pico / Pasadas las tres. <br>
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

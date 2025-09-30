@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../../css/lecturas.css">
+    <link rel="stylesheet" href="../../data/diccionario.json">
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <p class="titulo">运动</p>
+
+    <p class="texto_chinese">
+        A:
+        <span class="hanzi">你</span>
+        <span class="hanzi">喜欢</span>
+        <span class="hanzi">什么</span>
+        <span class="hanzi">运动</span>？<br>
+        B:
+        <span class="hanzi">我</span>
+        <span class="hanzi">最</span>
+        <span class="hanzi">喜欢</span>
+        <span class="hanzi">踢足球</span>。<br>
+        A:
+        <span class="hanzi">下午</span>
+        <span class="hanzi">我们</span>
+        <span class="hanzi">一起</span>
+        <span class="hanzi">去</span>
+        <span class="hanzi">踢足球</span>
+        <span class="hanzi">吧</span>。<br>
+        B:
+        <span class="hanzi">好</span>
+        <span class="hanzi">啊</span>！
+    </p>
+    <div id="tooltip" class="tooltip" style="display: none;"></div>
+    <br><br>
+
+
+    <button onclick="toggleTexto()" class="traduccion_boton">Traducción</button>
+    <br>
+    <div id="infoTexto" style="display: none;">
+        <h3>Deportes</h3>
+        <p class="texto_esp">
+            A: ¿Qué deportes te gustan?<br>
+            B: El que más me gusta es jugar al fútbol. <br>
+            A: ¿Vamos a jugar al fútbol juntos por la tarde?<br>
+            B: ¡Claro! <br>
+        </p>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="../../js/lecturas.js"></script>
+</body>
+
+</html>

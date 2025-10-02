@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lección 4</title>
+    <link rel="stylesheet" href="../../css/nav-style.css">
+    <link rel="stylesheet" href="../../css/index.css">
+    <link rel="stylesheet" href="../../css/gramatica.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="navbarContainer"></div>
+    <a href="/gramatica/hsk2/index.html" class="back-link">← Volver</a>
+    <h1 class="page-title">Preguntas con “是不是”</h1>
+    <p class="explicacion">
+        Si alguien hace una pregunta y está bastante seguro de un hecho o situación, puede usar este tipo de pregunta
+        para confirmar su suposición.
+        “是不是” (literalmente “sí o no”) suele usarse antes del predicado, o al principio o al final de una oración.
+        Por ejemplo:
+        <br><br>
+        (1) 你很少生病,是不是喜欢运动? - Casi nunca te enfermas, ¿será que te gusta hacer ejercicio?
+        <br><br>
+        (2) 是不是明天爸爸休息?- ¿Es verdad que papá descansa mañana?
+        <br><br>
+        (3) 我们星期一去北京,是不是?- Vamos a Pekín el lunes, ¿verdad?
+        <br><br>
+    </p>
+    <div id="quiz-container">
+        <div id="quiz-header">
+            <h2 id="question-text">Cargando pregunta...</h2>
+            <p id="question-counter">Pregunta 1 de 10</p>
+        </div>
+
+        <div id="answer-buttons" class="btn-grid">
+        </div>
+
+        <div id="hint-section" class="hide">
+            <p><strong>Pista:</strong> <span id="hint-text"></span></p>
+        </div>
+
+        <div id="feedback-section" class="hide">
+            <p id="rationale-text"></p>
+        </div>
+
+        <div class="controls">
+            <button id="hint-btn" class="hint-btn">💡 Mostrar Pista</button>
+            <button id="next-btn" class="next-btn hide">Siguiente →</button>
+        </div>
+    </div>
+
+    <script src="../../js/navigation.js"></script>
+    <script src="../../js/index.js"></script>
+    <script src="/js/hsk2/leccion4.js"></script>
+</body>
+
+</html>

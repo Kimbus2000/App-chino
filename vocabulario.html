@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../css/nav-style.css">
     <link rel="stylesheet" href="./css/vocabulario.css">
     <link rel="stylesheet" href="./data/diccionario.json">
     <link
@@ -15,7 +16,7 @@
 <body>
 
     <div id="navbarContainer"></div>
-
+    <a href="/index.html" class="back-link">← Volver a inicio</a>
 
     <div id="app">
         <div class="container_flashcards" v-if="!loading">
@@ -40,7 +41,7 @@
 
                 <div class="flashcard" :class="{ 'is-flipped': isFlipped }" @click="flipCard">
                     <div class="flashcard-front">
-                        
+
                         <div class="hanzi">{{ currentCard.hanzi }}</div>
                         <button @click.stop="playAudio" class="audio-btn" v-if="currentCard.audio">
                             🔊
@@ -72,7 +73,6 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="./js/vocabulario.js"></script>
     <script src="./js/navigation.js"></script>
-    <script src="js/index.js"></script>
 </body>
 
 </html>

@@ -24,24 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
     }
 });
-function highlightLink(navbarContainer, currentPage) {
-    const menuItems = navbarContainer.querySelectorAll('.nav-menu-item');
 
-    menuItems.forEach(function (item) {
-        const link = item.querySelector('.nav-menu-link');
-        if (!link) return; // Evita error si no hay link
-
-        let linkHref = link.getAttribute('href');
-        linkHref = replaceLink(linkHref);
-
-        let pageWithoutExtension = replaceLink(currentPage);
-        pageWithoutExtension = '/' + pageWithoutExtension;
-
-        if (link.getAttribute('href') === currentPage) {
-            link.classList.add('active');
-        }
-    });
-}
 
 function replaceLink(str) {
     if (str.endsWith('.html')) {

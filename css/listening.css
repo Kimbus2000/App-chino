@@ -77,7 +77,6 @@ audio {
     margin-bottom: 20px;
 }
 
-/* ----- ESTA ES LA CORRECCIÓN CLAVE ----- */
 .instrucciones, .respuesta_texto, .texto_ejemplo {
     text-align: center;
     margin-left: auto;   /* Anula el margin-left: 5% */

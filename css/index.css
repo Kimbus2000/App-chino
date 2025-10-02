@@ -1,51 +1,7 @@
-body {
-  background-color: #f8f2e9;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  margin-left: 35%;
-  font-family: "Archivo Black", sans-serif;
-  font-weight: bold;
-  color: #003c54;
-  font-size: 19px;
-  margin-top: -40px;
-}
-
-li {
-  display: inline;
-  margin: 2%;
-  outline: none;
-
-}
-
-ul li a {
-  color: inherit;
-  text-decoration: none;
-  cursor: pointer;
-  display: inline-block;
-}
-
 .img1 {
   width: 55%;
   margin-left: 40%;
   margin-top: 3%;
-}
-
-.button1 {
-  background-color: #1c8dee;
-  border-radius: 8px;
-  color: white;
-  padding: 10px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  margin: 4px 2px;
-  margin-left: 10%;
-  display: inline-block;
-  cursor: pointer;
 }
 
 h1 {
@@ -75,88 +31,51 @@ p {
   margin-top: -50px;
 }
 
+/* Estilos para pantallas de 768px de ancho o menos */
 
-/* Hamburguesa*/
-.container {
-  display: inline-block;
-  cursor: pointer;
-  margin-top: 15px;
+@media screen and (max-width: 768px) {
+
+  /* 1. Ajustamos la imagen */
+  .img1 {
+    display: block;
+    /* Necesario para que funcionen los márgenes automáticos */
+    width: 80%;
+    /* Hacemos la imagen más grande */
+    margin: 2rem auto;
+    /* Centramos la imagen horizontalmente y le damos espacio vertical */
+  }
+
+  /* 2. Ajustamos los textos */
+  h1,
+  h2,
+  p {
+    /* Reseteamos los márgenes para todos los textos */
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+    /* Centramos todo el texto */
+    width: 90%;
+    /* Evitamos que el texto toque los bordes */
+  }
+
+  h1 {
+    font-size: 55px;
+    /* Reducimos un poco el tamaño para móviles */
+    margin-top: 1rem;
+    /* Le damos un poco de espacio superior */
+  }
+
+  h2 {
+    font-size: 55px;
+    margin-bottom: 1.5rem;
+    /* Espacio antes del párrafo */
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.6;
+    /* Hacemos el párrafo más legible */
+  }
 }
-
-.bar1,
-.bar2,
-.bar3 {
-  width: 35px;
-  height: 5px;
-  background-color: #333;
-  margin: 6px 10px;
-  transition: 0.4s;
-}
-
-.change .bar1 {
-  transform: translate(0, 11px) rotate(-45deg);
-}
-
-.change .bar2 {
-  opacity: 0;
-}
-
-.change .bar3 {
-  transform: translate(0, -11px) rotate(45deg);
-}
-
-/*Boton lectura*/
-
-.dropbtn {
-  color: #003c54;
-  padding: 10px;
-  font-size: 19px;
-  border: 5px;
-  cursor: pointer;
-  font-weight: bold;
-  background-color: transparent; 
-  border: none;                  
-  font-family: inherit;         
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {background-color: #FF8989}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.dropdown:hover .dropbtn {
-  background-color: #C35B5B;
-  border-radius: 5px;
-  color: whitesmoke;
-}
-
-/*Botones cursor rojo*/
-.cursor:hover {
-  background-color: #C35B5B;
-  padding: 10px;
-  border-radius: 5px;
-  color: white;
-}
-

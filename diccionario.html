@@ -15,7 +15,7 @@
 <body>
 
     <div id="navbarContainer"></div>
-    
+
 
     <h2 id="titulo">Diccionario</h2>
 
@@ -40,8 +40,8 @@
             <div v-for="word in filteredWords" :key="word.id" class="word-card">
 
                 <h3 class="hanzi">{{ word.hanzi }}</h3>
-                <p><b>Pinyin:</b> {{ word.pinyin }}</p>
-                <p><b>Significado:</b> {{ word.significado }}</p>
+                <p class="pinyin"><b>Pinyin:</b> {{ word.pinyin }}</p>
+                <p class="significado"><b>Significado:</b> {{ word.significado }}</p>
 
                 <audio controls class="audio">
                     <source :src="word.audio + '.mp3'" type="audio/mpeg">
@@ -51,11 +51,14 @@
                 <div></div>
 
                 <img :src="word.trazo" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy" class="stroke">
-                
+
                 <img v-if="word.trazo2" :src="word.trazo2" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
                     class="stroke">
                 <img v-if="word.trazo3" :src="word.trazo3" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
                     class="stroke">
+                <img v-if="word.trazo4" :src="word.trazo4" :alt="'Trazos del carácter ' + word.hanzi" loading="lazy"
+                    class="stroke">
+                    
             </div>
         </div>
     </div>

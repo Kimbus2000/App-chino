@@ -24,6 +24,10 @@ input {
     font-size: 30px;
     margin-top: 10px;
 }
+.pinyin, .significado {
+    font-size: 18px;
+    margin: 5px 0;
+}
 
 .audio {
     height: 40px;

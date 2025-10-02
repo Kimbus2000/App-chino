@@ -1279,281 +1279,300 @@
       "hanzi": "吧",
       "pinyin": "ba",
       "significado": "partícula modal utilizada al final de la oración para indicar consulta, sugerencia, solicitud u orden",
-      "audio": "assets/audios/10. 茶",
-      "trazo": ""
+      "audio": "assets/audios/151.吧",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21543.gif"
     },
     {
       "id": 152,
       "hanzi": "白",
       "pinyin": "bái",
       "significado": "blanco",
-      "audio": "assets/audios/10. 茶",
-      "trazo": ""
+      "audio": "assets/audios/152.白",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/30333.gif"
     },
     {
       "id": 153,
       "hanzi": "百",
       "pinyin": "bǎi",
       "significado": "cien",
-      "audio": "assets/audios/10. 茶",
-      "trazo": ""
+      "audio": "assets/audios/153.百",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/30334.gif"
     },
     {
       "id": 154,
       "hanzi": "帮助",
       "pinyin": "bāng zhù",
       "significado": "ayuda",
-      "audio": "assets/audios/10. 茶",
-      "trazo": "",
-      "trazo2": ""
+      "audio": "assets/audios/154.帮助",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/24110.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21161.gif"
     },
     {
       "id": 155,
       "hanzi": "报纸",
       "pinyin": "bào zhǐ",
       "significado": "periódico",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/155.报纸",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/25253.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/32440.gif"
     },
     {
       "id": 156,
       "hanzi": "比",
       "pinyin": "bǐ",
       "significado": "partícula para hacer uso de la comparación",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/156.比",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/27604.gif"
     },
     {
       "id": 157,
       "hanzi": "别",
       "pinyin": "bié",
       "significado": "negación · otro · marcharse",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/157.别",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21035.gif"
     },
     {
       "id": 158,
       "hanzi": "宾馆",
       "pinyin": "bīn guǎn",
       "significado": "hotel",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/158.宾馆",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/23486.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/39302.gif"
     },
     {
       "id": 159,
       "hanzi": "长",
       "pinyin": "cháng",
       "significado": "largo · constantemente",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/159.长",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/38271.gif"
     },
     {
       "id": 160,
       "hanzi": "唱歌",
       "pinyin": "chàng gē",
       "significado": "cantar una canción",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/160.唱歌",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21809.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/27468.gif"
     },
     {
       "id": 161,
       "hanzi": "出",
       "pinyin": "chū",
       "significado": "salir · elevar",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/161.出",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/20986.gif"
     },
     {
       "id": 162,
       "hanzi": "穿",
       "pinyin": "chuān",
       "significado": "vestirse · llevar puesto",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/162.穿",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/31359.gif"
     },
     {
       "id": 163,
       "hanzi": "次",
       "pinyin": "cì",
       "significado": "veces · para enumerar · para secuencias",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/163.次",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/27425.gif"
     },
     {
       "id": 164,
       "hanzi": "从",
       "pinyin": "cóng",
       "significado": "desde · nunca (seguido de una negación)",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/164.从",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/20174.gif"
     },
     {
       "id": 165,
       "hanzi": "错",
       "pinyin": "cuò",
       "significado": "falllo · error · incorrecto",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/165.错",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/38169.gif"
     },
     {
       "id": 166,
       "hanzi": "打篮球",
       "pinyin": "dǎ lán qiú",
       "significado": "jugar al baloncesto",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/166.打篮球",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/25171.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/31726.gif",
+      "trazo3": "https://www.strokeorder.com/assets/bishun/animation/29699.gif"
     },
     {
       "id": 167,
       "hanzi": "大家",
       "pinyin": "dà jiā",
       "significado": "todos",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/167.大家",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/22823.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/23478.gif"
     },
     {
       "id": 168,
       "hanzi": "但是",
       "pinyin": "dàn shì",
       "significado": "pero · sin embargo",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/168.但是",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/20294.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/26159.gif"
     },
     {
       "id": 169,
       "hanzi": "到",
       "pinyin": "dào",
       "significado": "llegar · hacia/hasta (un lugar) · hasta (un período de tiempo) · ir",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/169.到",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21040.gif"
     },
     {
       "id": 170,
       "hanzi": "得",
       "pinyin": "de",
       "significado": "partícula estructural utilizada detrás de un verbo/adjetivo como verbo, indica efecto, grado o posibilidad",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/170.得",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/24471.gif"
     },
     {
       "id": 171,
       "hanzi": "等",
       "pinyin": "děng",
       "significado": "etcétera · esperar a · grado · igual que",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/171.等",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/31561.gif"
     },
     {
       "id": 172,
       "hanzi": "弟弟",
       "pinyin": "dì di",
       "significado": "hermano menor",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/172.弟弟",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/24351.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/24351.gif"
     },
     {
       "id": 173,
       "hanzi": "第一",
       "pinyin": "dì yī",
       "significado": "primero · número uno",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/173.第一",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/31532.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/19968.gif"
     },
     {
       "id": 174,
       "hanzi": "懂",
       "pinyin": "dǒng",
       "significado": "entender · saber",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/174.懂",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/25026.gif"
     },
     {
       "id": 175,
       "hanzi": "对",
       "pinyin": "duì",
       "significado": "correcto · un par · opuesto · responder · contra · para · hacia",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/175.对",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/23545.gif"
     },
     {
       "id": 176,
       "hanzi": "房间",
       "pinyin": "fáng jiān",
       "significado": "habitación",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/176.房间",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/25151.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/38388.gif"
     },
     {
       "id": 177,
       "hanzi": "非常",
       "pinyin": "fēi cháng",
       "significado": "mucho · extraordinariamente",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/177.非常",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/38750.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/24120.gif"
     },
     {
       "id": 178,
       "hanzi": "服务员",
       "pinyin": "fú wù yuán",
       "significado": "camarero",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/178.服务员",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/26381.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21153.gif",
+      "trazo3": "https://www.strokeorder.com/assets/bishun/animation/21592.gif"
     },
     {
       "id": 179,
       "hanzi": "高",
       "pinyin": "gāo",
       "significado": "alto · elevado",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/179.高",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/39640.gif"
     },
     {
       "id": 180,
       "hanzi": "告诉",
       "pinyin": "gào su",
       "significado": "decir · informar · hacer saber",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/180.告诉",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21578.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/35785.gif"
     },
     {
       "id": 181,
       "hanzi": "哥哥",
       "pinyin": "gē ge",
       "significado": "hermano mayor",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/181.哥哥",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/21733.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21733.gif"
     },
     {
       "id": 182,
       "hanzi": "给",
       "pinyin": "gěi",
       "significado": "dar · permitir · para (alguien)",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/182.给",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/32473.gif"
     },
     {
       "id": 183,
       "hanzi": "公共汽车",
       "pinyin": "gōng gòng qì chē",
       "significado": "autobús",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/183.公共汽车",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/20844.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/20849.gif",
+      "trazo3": "https://www.strokeorder.com/assets/bishun/animation/27773.gif",
+      "trazo4": "https://www.strokeorder.com/assets/bishun/animation/36710.gif"
     },
     {
       "id": 184,
       "hanzi": "公司",
       "pinyin": "gōng sī",
       "significado": "compañía · empresa",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/184.公司",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/20844.gif",
+      "trazo2": "https://www.strokeorder.com/assets/bishun/animation/21496.gif"
     },
     {
       "id": 185,
       "hanzi": "贵",
       "pinyin": "guì",
       "significado": "caro",
-      "audio": "",
-      "trazo": ""
+      "audio": "assets/audios/185.贵",
+      "trazo": "https://www.strokeorder.com/assets/bishun/animation/36149.gif"
     },
     {
       "id": 186,

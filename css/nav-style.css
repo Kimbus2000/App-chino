@@ -30,6 +30,11 @@ ul li a {
     cursor: pointer;
     display: inline-block;
 }
+.logo-nav {
+    height: 90px; 
+    width: auto;  
+    vertical-align: middle; 
+}
 
 .cursor a {
     color: inherit;
@@ -74,7 +79,7 @@ ul li a {
 }
 
 .dropdown-content a:hover {
-    background-color: #FF8989
+    background-color: #F9AB62;
 }
 
 .dropdown:hover .dropdown-content {
@@ -82,14 +87,14 @@ ul li a {
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #C35B5B;
+    background-color: #f67f10;
     border-radius: 5px;
     color: whitesmoke;
 }
 
 /*Botones cursor rojo*/
 .cursor a:hover {
-    background-color: #C35B5B;
+    background-color: #f67f10;
     color: white;
 }
 

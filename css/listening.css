@@ -1,4 +1,4 @@
-/*Estilos generales*/
+/* Estilos generales */
 body {
     font-family: Arial, sans-serif;
     color: #333;
@@ -8,12 +8,13 @@ h1 {
     margin-top: 15px;
 }
 
+/* NO AFECTA a los párrafos del quiz, ya que serán más específicos */
 p {
     color: #666;
     margin-top: 15px;
 }
 
-/*Contenedor grande todas las preguntas*/
+/* Contenedor grande todas las preguntas */
 .quiz-container {
     background-color: #fff;
     padding: 30px;
@@ -35,7 +36,6 @@ audio {
     flex-wrap: wrap;
     gap: 20px;
     margin-bottom: 30px;
-   
 }
 
 .question-block {
@@ -44,34 +44,30 @@ audio {
     padding: 20px;
     width: 250px;
     transition: border-color 0.3s;
+    text-align: center;
 }
 
 .question-block.correct {
-    border-color: #2ecc71; /* Verde para correcto */
+    border-color: #2ecc71;
 }
 
 .question-block.incorrect {
-    border-color: #e74c3c; /* Rojo para incorrecto */
+    border-color: #e74c3c;
 }
 
-.question-number {
+.question-number, .question-pregunta {
     font-weight: bold;
     font-size: 1.2em;
     margin-bottom: 15px;
     color: #3498db;
 }
-.question-pregunta {
+.question-ejemplo {
     font-weight: bold;
     font-size: 1.2em;
     margin-bottom: 15px;
     color: #3498db;
-    text-align: center;
-}
-.pregunta_texto {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    margin-left: auto;   /* Anula el margin-left: 5% */
+    margin-right: auto;
 }
 
 .question-block img {
@@ -80,6 +76,15 @@ audio {
     border-radius: 5px;
     margin-bottom: 20px;
 }
+
+/* ----- ESTA ES LA CORRECCIÓN CLAVE ----- */
+.instrucciones, .respuesta_texto, .texto_ejemplo {
+    text-align: center;
+    margin-left: auto;   /* Anula el margin-left: 5% */
+    margin-right: auto;  /* Anula el margin-right: 60% */
+}
+/* ------------------------------------------- */
+
 .options {
     text-align: left;
     display: flex;
@@ -121,4 +126,20 @@ audio {
     margin-top: 25px;
     font-size: 1.2em;
     font-weight: bold;
+}
+.back-link {
+    display: block; /* Para que ocupe su propia línea */
+    max-width: 600px; /* Mismo ancho que el quiz para alinearlo */
+    margin: 4% 60% -2% auto; /* Margen para centrarlo y darle espacio */
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #007bff; /* Un color azul estándar para enlaces */
+    text-decoration: none; /* Quita el subrayado por defecto */
+    transition: color 0.2s;
+}
+
+.back-link:hover {
+    text-decoration: underline; /* Añade subrayado al pasar el ratón */
+    color: #0056b3;
 }

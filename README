@@ -1,1 +1,43 @@
-README
+# App Chino  Mandarin Learning Platform
+
+¡Bienvenido a App Chino! Esta es una plataforma interactiva diseñada para ayudar a los usuarios a aprender chino mandarín a través de una variedad de ejercicios y materiales de estudio.
+
+## 🚀 Características
+
+* **Diccionario Interactivo**: Busca vocabulario por HSK, pinyin, hanzi o significado en español.
+* **Flashcards para Vocabulario**: Practica y memoriza palabras con un sistema de tarjetas interactivo.
+* **Ejercicios de Gramática**: Lecciones y cuestionarios para los niveles HSK 1 y 2.
+* **Pruebas de Comprensión Auditiva**: Ejercicios de escucha con audios y preguntas para HSK 1 y 2.
+* **Lecturas con Traducción**: Textos en chino con traducciones al español para practicar la lectura.
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Frontend**: HTML, CSS, JavaScript
+* **Framework de JavaScript**: Vue.js (para las secciones de diccionario y vocabulario)
+
+## 📁 Estructura del Proyecto
+
+El proyecto está organizado en las siguientes carpetas principales:
+
+* `/assets`: Contiene todos los archivos multimedia, como audios e imágenes, organizados por nivel de HSK.
+* `/css`: Hojas de estilo para la apariencia de la aplicación.
+* `/data`: Archivo JSON con el diccionario.
+* `/gramatica`: Lecciones y ejercicios de gramática.
+* `/js`: Lógica de la aplicación, incluyendo los ejercicios y el diccionario.
+* `/lecturas`: Textos para practicar la lectura.
+* `/listening`: Ejercicios de comprensión auditiva.
+
+## 🚀 Cómo Empezar
+
+Para ejecutar este proyecto localmente, sigue estos pasos:
+
+1.  **Clona el repositorio**:
+    ```bash
+    git clone [https://github.com/kimbus2000/app-chino.git](https://github.com/kimbus2000/app-chino.git)
+    ```
+2.  **Abre el archivo `index.html` en tu navegador**:
+    Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web.
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar la aplicación, por favor, abre un "issue" o envía un "pull request".

@@ -1,19 +1,4 @@
-.back-link {
-    display: block; /* Para que ocupe su propia línea */
-    max-width: 600px; /* Mismo ancho que el quiz para alinearlo */
-    margin: 4% 60% -2% auto; /* Margen para centrarlo y darle espacio */
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.1em;
-    font-weight: 600;
-    color: #007bff; /* Un color azul estándar para enlaces */
-    text-decoration: none; /* Quita el subrayado por defecto */
-    transition: color 0.2s;
-}
 
-.back-link:hover {
-    text-decoration: underline; /* Añade subrayado al pasar el ratón */
-    color: #0056b3;
-}
 /* Contenedor principal de las tarjetas */
 .flex-container {
     /* Eliminamos flex-flow: row wrap; y justify-content: space-evenly; */

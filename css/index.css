@@ -10,7 +10,8 @@ h1 {
   font-family: "Bebas Neue", sans-serif;
   font-weight: lighter;
   font-size: 70px;
-  color: #003c54;
+  color: #190C01;
+  font-weight: bold;
 }
 
 h2 {
@@ -19,13 +20,14 @@ h2 {
   font-family: "Bebas Neue", sans-serif;
   font-weight: lighter;
   font-size: 70px;
-  color: #003c54;
+  color: #190C01;
+  font-weight: bold;
 }
 
 p {
   font-family: "Archivo Black", sans-serif;
   font-size: 16px;
-  color: #003c54;
+  color: #190C01;
   margin-right: 60%;
   margin-left: 5%;
   margin-top: -50px;
